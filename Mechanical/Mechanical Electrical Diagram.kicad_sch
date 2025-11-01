@@ -2053,6 +2053,16 @@
 	)
 	(wire
 		(pts
+			(xy 411.48 237.49) (xy 411.48 240.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4cd5080b-2ebc-47c5-8f5c-1814ac6aa8b2")
+	)
+	(wire
+		(pts
 			(xy 284.48 360.68) (xy 284.48 364.49)
 		)
 		(stroke
@@ -2093,6 +2103,16 @@
 	)
 	(wire
 		(pts
+			(xy 411.48 138.43) (xy 411.48 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71f5526d-8dd8-4e43-bdb3-41b5b25153e4")
+	)
+	(wire
+		(pts
 			(xy 353.06 270.51) (xy 396.24 270.51)
 		)
 		(stroke
@@ -2110,6 +2130,16 @@
 			(type default)
 		)
 		(uuid "87efbb03-84ef-4d35-9826-2a4a1b40e2a5")
+	)
+	(wire
+		(pts
+			(xy 411.48 312.42) (xy 411.48 317.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "94ee4eed-43ac-4b2a-9189-de510c77c1f3")
 	)
 	(wire
 		(pts
@@ -2160,6 +2190,16 @@
 			(type default)
 		)
 		(uuid "b1097cb6-2d2b-456c-9e43-5ae302750c3e")
+	)
+	(wire
+		(pts
+			(xy 411.48 179.07) (xy 411.48 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b13b1544-738d-486e-b1c7-12c49a1caa8d")
 	)
 	(wire
 		(pts
@@ -2223,6 +2263,16 @@
 	)
 	(wire
 		(pts
+			(xy 411.48 196.85) (xy 411.48 201.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c7fe292e-5fba-48f0-b462-7cfcd888c026")
+	)
+	(wire
+		(pts
 			(xy 411.48 295.91) (xy 411.48 298.45)
 		)
 		(stroke
@@ -2230,6 +2280,16 @@
 			(type default)
 		)
 		(uuid "c9315c33-4a00-4345-aeba-24e130d91ea4")
+	)
+	(wire
+		(pts
+			(xy 411.48 353.06) (xy 411.48 355.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cec0c927-7931-4b62-a1e2-4b50bb62d3c4")
 	)
 	(wire
 		(pts
@@ -2592,6 +2652,358 @@
 			(project "Mechanical Electrical Diagram"
 				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
 					(reference "#PWR08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Driver_Motor:L298N")
+		(at 411.48 161.29 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "171ab7eb-6824-41c6-b64a-84d21c7e85e3")
+		(property "Reference" "U5"
+			(at 416.1633 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "L298N"
+			(at 416.1633 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-15_P2.54x5.08mm_StaggerOdd_Lead4.58mm_Vertical"
+			(at 412.75 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000240.pdf"
+			(at 415.29 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual full bridge motor driver, up to 46V, 4A, Multiwatt15-V"
+			(at 411.48 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "11"
+			(uuid "b3b25a75-fa25-43eb-a758-d051bd5e3025")
+		)
+		(pin "8"
+			(uuid "009069e3-80d5-40b1-b961-603daaf46f41")
+		)
+		(pin "5"
+			(uuid "bc76194f-bb1d-4af9-949f-66db95d56b92")
+		)
+		(pin "10"
+			(uuid "ca494a40-72c4-4521-9e92-bbd8ac253844")
+		)
+		(pin "7"
+			(uuid "59b84f7f-ee6a-446c-8c7a-20ce5d857c62")
+		)
+		(pin "12"
+			(uuid "331f1687-e1e4-4db9-9364-99b3b7d27b04")
+		)
+		(pin "6"
+			(uuid "e85404f2-5cb6-4c6e-bd31-2fea0d5d714b")
+		)
+		(pin "1"
+			(uuid "272a6dbe-e40b-4ee9-8f4e-7890142927a2")
+		)
+		(pin "15"
+			(uuid "508e5e1a-3a9c-4144-ad3a-c31df6271a71")
+		)
+		(pin "9"
+			(uuid "e4ddb2e6-c6b8-4680-ad09-5f784c15feb9")
+		)
+		(pin "4"
+			(uuid "7836c113-115f-46a0-b816-c3425ff6f864")
+		)
+		(pin "2"
+			(uuid "87b2ff67-8f5c-4561-8c22-4fe89cee34a7")
+		)
+		(pin "3"
+			(uuid "b4fc1a70-d6b0-4306-ba1e-7656ffcae60a")
+		)
+		(pin "13"
+			(uuid "9cd84578-fae0-411d-89b8-123ef304b3ad")
+		)
+		(pin "14"
+			(uuid "b218964d-b1f6-4dc5-bce9-8c07599b39fd")
+		)
+		(instances
+			(project "Mechanical Electrical Diagram"
+				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
+					(reference "U5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 411.48 196.85 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "20e1bfd9-327b-44f9-9e01-62ce4b8672f4")
+		(property "Reference" "#PWR021"
+			(at 411.48 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 411.48 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 411.48 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 411.48 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 411.48 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "221ed321-e851-4932-a314-3bf2dc799925")
+		)
+		(instances
+			(project "Mechanical Electrical Diagram"
+				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
+					(reference "#PWR021")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Driver_Motor:L298N")
+		(at 411.48 335.28 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "219c8f85-898b-40da-b19d-69d1771ebb16")
+		(property "Reference" "U3"
+			(at 416.1633 314.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "L298N"
+			(at 416.1633 317.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-15_P2.54x5.08mm_StaggerOdd_Lead4.58mm_Vertical"
+			(at 412.75 351.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000240.pdf"
+			(at 415.29 328.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual full bridge motor driver, up to 46V, 4A, Multiwatt15-V"
+			(at 411.48 335.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "11"
+			(uuid "dc65e01f-2a1b-4695-96e4-ab34edab901e")
+		)
+		(pin "8"
+			(uuid "c38709bd-72d4-4201-8979-1b1257abbea4")
+		)
+		(pin "5"
+			(uuid "138ecd99-f392-4fc5-a96e-275df28aac5f")
+		)
+		(pin "10"
+			(uuid "6c93729e-78eb-4e1c-bacb-401363019a96")
+		)
+		(pin "7"
+			(uuid "6139344b-ee18-4297-9a90-8e638206cfb1")
+		)
+		(pin "12"
+			(uuid "3431ee3e-2b22-4ad4-b0c0-6892eac4abb5")
+		)
+		(pin "6"
+			(uuid "7c221c5d-09fa-4eb0-ba64-d2f299b85175")
+		)
+		(pin "1"
+			(uuid "294e9ef4-601f-42c5-8fce-82cd3639fcb7")
+		)
+		(pin "15"
+			(uuid "08792cd0-1f64-433b-8c9d-66bf6e6bb59b")
+		)
+		(pin "9"
+			(uuid "349d5010-deef-40ec-9312-c94f54fe4f40")
+		)
+		(pin "4"
+			(uuid "49dbc5fd-d34e-4464-a7a2-4296f9acbb53")
+		)
+		(pin "2"
+			(uuid "44a4cd59-4044-4ba3-aa0a-aa11cf70804b")
+		)
+		(pin "3"
+			(uuid "9510641b-4602-4fea-aeac-de0f52288738")
+		)
+		(pin "13"
+			(uuid "4070e474-1391-4274-8755-587ab42bda28")
+		)
+		(pin "14"
+			(uuid "7d1b0e8c-1beb-424a-b264-030ca5d3aff8")
+		)
+		(instances
+			(project "Mechanical Electrical Diagram"
+				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
+					(reference "U3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 411.48 312.42 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "259190af-d9b1-46b3-b029-da00c7f7ea6e")
+		(property "Reference" "#PWR019"
+			(at 411.48 316.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 411.48 307.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 411.48 312.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 411.48 312.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 411.48 312.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "01bc9784-fa31-4eda-a5a1-d10e4174224b")
+		)
+		(instances
+			(project "Mechanical Electrical Diagram"
+				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -2998,6 +3410,182 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 411.48 240.03 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6236210e-32db-47cf-ab7c-7267b2b1a171")
+		(property "Reference" "#PWR022"
+			(at 411.48 246.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 411.48 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 411.48 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 411.48 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 411.48 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "95638a03-835c-4190-a91a-a971ef80621f")
+		)
+		(instances
+			(project "Mechanical Electrical Diagram"
+				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
+					(reference "#PWR022")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Driver_Motor:L298N")
+		(at 411.48 219.71 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "72f14ed0-3a74-4122-b70b-0855468eab4f")
+		(property "Reference" "U4"
+			(at 416.1633 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "L298N"
+			(at 416.1633 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_THT:TO-220-15_P2.54x5.08mm_StaggerOdd_Lead4.58mm_Vertical"
+			(at 412.75 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00000240.pdf"
+			(at 415.29 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual full bridge motor driver, up to 46V, 4A, Multiwatt15-V"
+			(at 411.48 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "11"
+			(uuid "5f5d20fd-2ee2-4c8b-9a49-6a125ac31199")
+		)
+		(pin "8"
+			(uuid "e2dd4e38-267b-4bbe-9883-76cb7e422635")
+		)
+		(pin "5"
+			(uuid "076236e8-a46e-4fd2-87d3-1c2bc02bbff4")
+		)
+		(pin "10"
+			(uuid "7c2ddbd3-80d2-42be-8dc4-03e5e48d6d42")
+		)
+		(pin "7"
+			(uuid "5332d734-ce41-4d7f-9c6e-9fdb182efc0e")
+		)
+		(pin "12"
+			(uuid "183a6e15-b979-4885-a458-8be920c321c5")
+		)
+		(pin "6"
+			(uuid "c5ba11be-bd3e-4e31-9e7d-bc38bab23f85")
+		)
+		(pin "1"
+			(uuid "9d6b3642-f646-44d8-955e-0a72b45fc00a")
+		)
+		(pin "15"
+			(uuid "17dd78a4-97cf-4d43-9605-6f90cc7f05f1")
+		)
+		(pin "9"
+			(uuid "b8b2b211-2fa3-48c4-baae-d3363a80f445")
+		)
+		(pin "4"
+			(uuid "95961e1d-2413-46d7-954c-db50c49a66b9")
+		)
+		(pin "2"
+			(uuid "063e6b01-94a2-46a6-b865-fe056baef834")
+		)
+		(pin "3"
+			(uuid "3af274c1-ea7e-4658-a825-abeb77786cbf")
+		)
+		(pin "13"
+			(uuid "74ec100f-467b-4d55-8455-edd5a78ffc8d")
+		)
+		(pin "14"
+			(uuid "35fab5df-1870-4f69-93b6-5fa169fb6a4c")
+		)
+		(instances
+			(project "Mechanical Electrical Diagram"
+				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
+					(reference "U4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 213.36 207.01 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3125,6 +3713,72 @@
 			(project "Mechanical Electrical Diagram"
 				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
 					(reference "#PWR013")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 411.48 138.43 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "785f2ba8-e6fd-4244-9a30-f76846d31be7")
+		(property "Reference" "#PWR023"
+			(at 411.48 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 411.48 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 411.48 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 411.48 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 411.48 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b1bed488-e49d-4efb-91af-260a6d2927df")
+		)
+		(instances
+			(project "Mechanical Electrical Diagram"
+				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -3391,6 +4045,138 @@
 			(project ""
 				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
 					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 411.48 355.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c1645911-b6a6-4204-8d0b-234f2b757a71")
+		(property "Reference" "#PWR020"
+			(at 411.48 361.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 411.48 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 411.48 355.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 411.48 355.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 411.48 355.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f272bef9-0ad6-4dd5-b298-e9194b3c4c60")
+		)
+		(instances
+			(project "Mechanical Electrical Diagram"
+				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
+					(reference "#PWR020")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 411.48 181.61 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d78b31da-7f38-4b1f-b1c6-a6a7e6d6eabe")
+		(property "Reference" "#PWR024"
+			(at 411.48 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 411.48 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 411.48 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 411.48 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 411.48 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "41f05986-450c-4161-98c8-831a410b221d")
+		)
+		(instances
+			(project "Mechanical Electrical Diagram"
+				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
