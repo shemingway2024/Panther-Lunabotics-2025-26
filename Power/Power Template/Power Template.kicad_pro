@@ -247,7 +247,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "Lunabotics 2025-26"
+    ]
   },
   "meta": {
     "filename": "Power Template.kicad_pro",
