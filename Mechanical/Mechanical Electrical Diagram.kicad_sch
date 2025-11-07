@@ -772,6 +772,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Looks good, we'll just sub in the actual motor schematic from the library. "
+		(exclude_from_sim no)
+		(at 206.756 218.694 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "25bbfeb2-b650-48be-82bc-97fa86c98da9")
+	)
 	(wire
 		(pts
 			(xy 180.34 240.03) (xy 180.34 250.19)

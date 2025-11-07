@@ -882,6 +882,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "We need 3 more of this, and add motors and Nano to schematic to show where it is connected. "
+		(exclude_from_sim no)
+		(at 115.316 160.528 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "11decc61-bff6-4a15-a69e-a9c14b461108")
+	)
 	(junction
 		(at 123.19 147.32)
 		(diameter 0)
