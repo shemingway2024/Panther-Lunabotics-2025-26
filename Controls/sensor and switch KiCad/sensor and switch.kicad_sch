@@ -1171,7 +1171,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "Potentially (probably) need more movement limit switches. I''l lyk at the meeting"
+	(text "Absolutely no movement limit switches. Do need encoders though"
 		(exclude_from_sim no)
 		(at 116.332 138.176 0)
 		(effects
