@@ -354,14 +354,6 @@
 			)
 		)
 		(symbol "Jetson_Nano_1_1"
-			(text "I did not accurately specify input/output, I did not place the ground on the bottom (too many multi-pins that would mess up the specifics), I did not put 5V+ power on top because there are multiple power inputs and it depends on which one we use. This can all be updated later when I figure out which one we are using."
-				(at 12.446 148.082 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
 			(pin input line
 				(at -34.29 63.5 0)
 				(length 2.54)
