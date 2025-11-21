@@ -541,246 +541,214 @@
 		)
 	)
 	(junction
-		(at 153.67 304.8)
+		(at 148.59 351.79)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "00d8dfd8-34d8-4042-a6fe-54ed4fe586eb")
+		(uuid "023be909-ed4c-49be-b9dd-55c3e83e2f8b")
 	)
 	(junction
-		(at 326.39 351.79)
+		(at 262.89 304.8)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "0e5a51f1-6a3c-4e0d-8779-da0270cf8918")
+		(uuid "0b2f24d3-36b3-4cb0-b65a-f39e78b5d2dc")
 	)
 	(junction
-		(at 205.74 304.8)
+		(at 200.66 304.8)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "26259fdd-ecec-4eba-b04c-ada6d5d98950")
-	)
-	(junction
-		(at 316.23 304.8)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "28148586-e59b-4a11-9890-3c938693f672")
-	)
-	(junction
-		(at 143.51 351.79)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2c33d296-812a-47da-b0b1-74fc2c552c3d")
-	)
-	(junction
-		(at 267.97 347.98)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "33556923-b0d7-4f4b-8e07-42a8dea0c88c")
-	)
-	(junction
-		(at 201.93 347.98)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3c243f76-29f2-472a-9637-79cf39bf2856")
-	)
-	(junction
-		(at 257.81 304.8)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "48e5997f-15be-4a43-bf49-41336ffa8123")
-	)
-	(junction
-		(at 322.58 304.8)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4adfb981-7ee3-48bf-8829-bfad98007bc5")
-	)
-	(junction
-		(at 318.77 351.79)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "561886f8-81bf-4b05-b27e-1b99d7973c32")
-	)
-	(junction
-		(at 267.97 351.79)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5fb94067-3b7e-4533-ae63-1953cd03b0f9")
-	)
-	(junction
-		(at 147.32 304.8)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6977cdcb-ba7e-456d-a94f-9ad7636d38ac")
-	)
-	(junction
-		(at 209.55 351.79)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6a8efcae-135f-4a3f-8ac4-24d3e4a6e786")
-	)
-	(junction
-		(at 326.39 347.98)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6af0e8d6-f086-401c-aab2-4c8d6fba2825")
-	)
-	(junction
-		(at 260.35 351.79)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "73be73fa-f4e9-4c49-b791-97dc5977d61b")
-	)
-	(junction
-		(at 199.39 304.8)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "752942ba-7614-4402-8d98-e9eb3f48119d")
-	)
-	(junction
-		(at 129.54 331.47)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7b64c294-93d6-4205-b370-3a6e86ba1047")
+		(uuid "1d86a9f0-3b3b-4b53-86c0-c66622bee2d2")
 	)
 	(junction
 		(at 260.35 347.98)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "8bd7e464-acf5-4bca-ab02-944767de5a7a")
+		(uuid "200123a0-396d-4e4a-abe8-99dca50fe4b8")
 	)
 	(junction
-		(at 246.38 331.47)
+		(at 260.35 351.79)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "9a85b03f-5820-4756-92e4-69a525ad5cc1")
+		(uuid "2b5bd6ea-40f6-442a-ac55-026b707f3f54")
 	)
 	(junction
-		(at 304.8 331.47)
+		(at 199.39 285.75)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "9e9be467-ee91-4fb5-a02b-af014fe7852c")
+		(uuid "2c4f3d6d-d5ff-4e82-9d3b-a579f8ed265d")
 	)
 	(junction
-		(at 270.51 304.8)
+		(at 207.01 279.4)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "a3bfe477-076b-4cbb-98a9-682e917598ef")
+		(uuid "2ca026f8-0618-412d-9cdb-3aa8a8d70d29")
 	)
 	(junction
-		(at 328.93 304.8)
+		(at 194.31 304.8)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "a9699a4e-8184-411b-83d3-ef6df029b94c")
+		(uuid "2e29a7d1-bb0d-4a83-b1e8-7a0160f37487")
 	)
 	(junction
-		(at 187.96 331.47)
+		(at 196.85 347.98)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "b4329a0b-d792-46d1-bc11-2152e9953241")
+		(uuid "34823a6e-b0f3-4a92-a41b-f7a2deba39e6")
 	)
 	(junction
-		(at 140.97 304.8)
+		(at 151.13 279.4)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "b72c21a9-2e3e-48bf-a75b-78cb4cfb26ac")
+		(uuid "3557ec28-7b9f-4807-aa54-b3921cb39a15")
 	)
 	(junction
-		(at 264.16 304.8)
+		(at 199.39 267.97)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c6b22209-11e2-4dbe-a195-cc69c42be3ba")
+		(uuid "36ffad1e-d4eb-441c-a0d8-b9d33d6408db")
 	)
 	(junction
-		(at 212.09 304.8)
+		(at 255.27 285.75)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "dd83a6d4-1ecd-4523-876c-13d2416fa59f")
+		(uuid "38053d5a-c2ff-4603-b1d0-bae8635a2b70")
 	)
 	(junction
-		(at 318.77 347.98)
+		(at 196.85 351.79)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "fb6bfae1-eeea-4152-a84c-cfcf24875201")
+		(uuid "3d0f6ad6-01e5-4867-938a-b5a9045e0f86")
+	)
+	(junction
+		(at 148.59 347.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "469542c0-be37-4c85-a4ce-4f0cfd6a2fc4")
+	)
+	(junction
+		(at 140.97 347.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4753eb81-ddec-44f8-9380-9d3b7241966a")
+	)
+	(junction
+		(at 262.89 279.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4eb9a503-38a2-4b78-980e-c1422fd7ee39")
+	)
+	(junction
+		(at 255.27 267.97)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5e1f0332-10d2-4e7a-9758-ed675b6e5a17")
+	)
+	(junction
+		(at 207.01 304.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "734b832b-2124-4d00-9056-7d02bbd30b8c")
+	)
+	(junction
+		(at 256.54 304.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9581f139-e0ba-4820-8834-162bb4240a28")
+	)
+	(junction
+		(at 151.13 304.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9e13e782-3e2b-415b-992f-5a3f27635ce1")
+	)
+	(junction
+		(at 140.97 351.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a1f66dd0-53b4-42b9-8ca1-11352eeb0d63")
+	)
+	(junction
+		(at 138.43 304.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a7aa8208-0ef8-45ed-bb0c-b6e8d88e3a59")
+	)
+	(junction
+		(at 250.19 304.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a97e48f1-f634-47c7-bc3e-95f762d2ab42")
+	)
+	(junction
+		(at 252.73 347.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b92d1714-1419-4ef1-bf64-337282e775c7")
+	)
+	(junction
+		(at 143.51 267.97)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cf3f0362-fc8c-402f-b873-920bbc354440")
+	)
+	(junction
+		(at 252.73 351.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e3f09d4d-a531-4d8f-8828-c99419bc5e7e")
+	)
+	(junction
+		(at 144.78 304.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "edfaef86-81fa-46b5-b625-3d1217c839e2")
+	)
+	(junction
+		(at 143.51 285.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f21a0b58-98c5-4782-8712-86aea954ee56")
+	)
+	(junction
+		(at 204.47 347.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f79cfb41-fc62-4d8d-95ec-652dd355e39e")
+	)
+	(junction
+		(at 204.47 351.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fab70204-9bff-44f3-98e2-35fa4725d0df")
 	)
 	(wire
 		(pts
-			(xy 267.97 347.98) (xy 267.97 351.79)
+			(xy 316.23 347.98) (xy 316.23 351.79)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0d0a58f9-f692-4f8c-bbf5-a1327531082e")
+		(uuid "05913c63-ded3-4cff-8577-9b2fc7fb2ee1")
 	)
 	(wire
 		(pts
-			(xy 304.8 331.47) (xy 304.8 266.7)
+			(xy 144.78 304.8) (xy 144.78 285.75)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0f256aa4-90e8-4d26-a04c-28d5f5f28168")
+		(uuid "2a825211-53c1-476e-963d-77610cd3f31e")
 	)
 	(wire
 		(pts
-			(xy 187.96 331.47) (xy 187.96 266.7)
+			(xy 144.78 285.75) (xy 143.51 285.75)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "1614e0ef-a186-4e89-9c3a-0fad0d667b81")
-	)
-	(wire
-		(pts
-			(xy 309.88 288.29) (xy 309.88 267.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "19d8f80f-e902-4fe1-a6f6-8d32d23f6313")
-	)
-	(wire
-		(pts
-			(xy 153.67 266.7) (xy 153.67 275.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "237f778d-9388-4e22-82a0-a66b0586b61f")
-	)
-	(wire
-		(pts
-			(xy 212.09 266.7) (xy 212.09 275.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "24fa4771-9074-45a5-9fbc-afba2cf751f5")
-	)
-	(wire
-		(pts
-			(xy 140.97 288.29) (xy 140.97 304.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "25309c74-1d18-43c8-b772-60dc1b536f3a")
-	)
-	(wire
-		(pts
-			(xy 328.93 266.7) (xy 328.93 275.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2d9845cd-f5d8-468a-9442-50c99cad8842")
+		(uuid "2ba10276-53e4-4d0c-a3f3-1a8de75e576d")
 	)
 	(wire
 		(pts
@@ -794,33 +762,43 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 285.75) (xy 146.05 285.75)
+			(xy 256.54 304.8) (xy 256.54 285.75)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2df4477c-ec51-4d24-919c-c3290c5802b2")
+		(uuid "2e31a5b7-1467-4ee7-98e3-33a6d8ea3478")
 	)
 	(wire
 		(pts
-			(xy 322.58 285.75) (xy 321.31 285.75)
+			(xy 256.54 285.75) (xy 255.27 285.75)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2e88ebb3-cafc-427f-a0f5-29d7afefeef7")
+		(uuid "39d06e4c-63c6-415b-a14f-3336430812d7")
 	)
 	(wire
 		(pts
-			(xy 193.04 267.97) (xy 204.47 267.97)
+			(xy 187.96 267.97) (xy 199.39 267.97)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3b49c095-e33f-48ab-be5b-c3d5372138a3")
+		(uuid "3e016f92-948c-41b1-b6de-4b8a785fdd78")
+	)
+	(wire
+		(pts
+			(xy 151.13 279.4) (xy 151.13 304.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e6cc62b-a1f3-4b98-8f07-641b42846c72")
 	)
 	(wire
 		(pts
@@ -834,23 +812,13 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 267.97) (xy 262.89 267.97)
+			(xy 194.31 288.29) (xy 187.96 288.29)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "436127ee-e4d8-4cf1-a5c1-0886321315ca")
-	)
-	(wire
-		(pts
-			(xy 246.38 266.7) (xy 270.51 266.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4375460c-d3e5-41b4-8313-d1133c263c85")
+		(uuid "40f6f795-8fd6-4011-8f2d-5590b31d99ec")
 	)
 	(wire
 		(pts
@@ -864,43 +832,43 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 331.47) (xy 129.54 266.7)
+			(xy 308.61 347.98) (xy 308.61 351.79)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "4d00a835-8799-49f4-8486-d0aabe36fe1d")
+		(uuid "522718f2-6d69-49d0-b309-9bd134e160e8")
 	)
 	(wire
 		(pts
-			(xy 95.25 266.7) (xy 95.25 275.59)
+			(xy 200.66 285.75) (xy 199.39 285.75)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "54b578bf-bc8f-48fb-a7f8-e579b9856db4")
+		(uuid "59ae333a-d441-4a66-a89d-5587296cc9f5")
 	)
 	(wire
 		(pts
-			(xy 316.23 288.29) (xy 309.88 288.29)
+			(xy 243.84 288.29) (xy 243.84 267.97)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "57788889-880b-4bcb-8acf-be5e6cabe25c")
+		(uuid "64095097-fa31-4d58-b664-fef808bcf834")
 	)
 	(wire
 		(pts
-			(xy 270.51 266.7) (xy 270.51 275.59)
+			(xy 318.77 279.4) (xy 318.77 304.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "5995143c-c5f1-4e7d-aca9-c1e89ab3288f")
+		(uuid "67b2a6e2-c6c4-40f0-9780-7a1ca1fefd3d")
 	)
 	(wire
 		(pts
@@ -914,93 +882,73 @@
 	)
 	(wire
 		(pts
-			(xy 257.81 288.29) (xy 251.46 288.29)
+			(xy 187.96 288.29) (xy 187.96 267.97)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6e8b47f1-b5b3-4cee-b37a-2e6c1d5b5376")
+		(uuid "6b19d5f8-bd7f-4e9f-800c-f793bc31c53b")
 	)
 	(wire
 		(pts
-			(xy 212.09 279.4) (xy 212.09 304.8)
+			(xy 262.89 279.4) (xy 262.89 304.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "800450fa-40cf-4a5e-bc52-3bc00cb91a75")
+		(uuid "71c4144b-1d7d-46f2-a5aa-502d68865af2")
 	)
 	(wire
 		(pts
-			(xy 205.74 285.75) (xy 204.47 285.75)
+			(xy 299.72 288.29) (xy 299.72 267.97)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "8179c4f5-3d31-4a37-8cee-0e0074b717b4")
+		(uuid "746f3c1a-eb3c-4cda-8bca-5a52ef0b91c4")
 	)
 	(wire
 		(pts
-			(xy 328.93 279.4) (xy 328.93 304.8)
+			(xy 312.42 285.75) (xy 311.15 285.75)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "84daa649-fa56-4f12-8932-67288af33f80")
+		(uuid "8bf9d982-aced-4ce6-80d4-a40e48e18e8d")
 	)
 	(wire
 		(pts
-			(xy 201.93 347.98) (xy 201.93 351.79)
+			(xy 196.85 347.98) (xy 196.85 351.79)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "86861151-f8f5-41f5-b03e-67aab5cc4048")
+		(uuid "8e9e799f-aca4-4711-b7f9-877e8c408373")
 	)
 	(wire
 		(pts
-			(xy 71.12 331.47) (xy 71.12 266.7)
+			(xy 250.19 288.29) (xy 250.19 304.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9143d358-f87a-4924-9175-e161a5d5a129")
+		(uuid "907e5e5a-eb94-4efe-bec2-f5f5ec7f0c24")
 	)
 	(wire
 		(pts
-			(xy 134.62 267.97) (xy 146.05 267.97)
+			(xy 132.08 267.97) (xy 143.51 267.97)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "94c4e9a4-2da2-4e27-a640-b83f9a177381")
-	)
-	(wire
-		(pts
-			(xy 260.35 347.98) (xy 260.35 351.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9e07c4e8-66ca-4613-bbe4-a49a3b931ab3")
-	)
-	(wire
-		(pts
-			(xy 147.32 304.8) (xy 147.32 285.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9ed0547c-d8a0-45f0-a336-dc969a73431a")
+		(uuid "9659ed78-f2e0-4836-bf39-d00bbccbc9b6")
 	)
 	(wire
 		(pts
@@ -1014,73 +962,93 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 266.7) (xy 95.25 266.7)
+			(xy 138.43 288.29) (xy 138.43 304.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a84dbdde-7e0d-411a-a442-5f2d507ed231")
+		(uuid "a128027d-f6a2-4163-b247-032f8806234d")
 	)
 	(wire
 		(pts
-			(xy 134.62 288.29) (xy 134.62 267.97)
+			(xy 250.19 288.29) (xy 243.84 288.29)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a8a44dc5-3099-4d2e-b2c8-25fc7915808b")
+		(uuid "abc2f7f6-6fd8-452f-a124-e7c6de886651")
 	)
 	(wire
 		(pts
-			(xy 129.54 266.7) (xy 153.67 266.7)
+			(xy 200.66 304.8) (xy 200.66 285.75)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "aa0064d3-8cb4-4833-9704-fc4b200a323c")
+		(uuid "b0ef02db-4633-41c7-ac6b-eabde8e33b10")
 	)
 	(wire
 		(pts
-			(xy 322.58 304.8) (xy 322.58 285.75)
+			(xy 260.35 347.98) (xy 260.35 351.79)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ab5af5d1-2651-4618-a48e-cc714779331a")
+		(uuid "b1da7bfd-9282-49ca-b27e-6ab6596c490c")
 	)
 	(wire
 		(pts
-			(xy 205.74 304.8) (xy 205.74 285.75)
+			(xy 243.84 267.97) (xy 255.27 267.97)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ac800541-6b5d-426d-bab2-77e8ed130cd5")
+		(uuid "b3529f5d-5c82-498a-b270-fe7ed1457a94")
 	)
 	(wire
 		(pts
-			(xy 264.16 304.8) (xy 264.16 285.75)
+			(xy 312.42 304.8) (xy 312.42 285.75)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b7e54504-d222-4dbd-a0d7-f01395220575")
+		(uuid "b7b0dd82-dd02-4147-a03d-43e1d44dff61")
 	)
 	(wire
 		(pts
-			(xy 140.97 288.29) (xy 134.62 288.29)
+			(xy 204.47 347.98) (xy 204.47 351.79)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ba2938fd-e683-45e6-b233-1b33d66c7b55")
+		(uuid "ba306342-9b35-4987-9c18-868186287cf1")
+	)
+	(wire
+		(pts
+			(xy 148.59 347.98) (xy 148.59 351.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bdfcd6af-e20c-406f-951f-07d32e5c7034")
+	)
+	(wire
+		(pts
+			(xy 132.08 288.29) (xy 132.08 267.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c159374d-4e48-46d2-af1e-a2c3808d2296")
 	)
 	(wire
 		(pts
@@ -1094,73 +1062,13 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 279.4) (xy 153.67 304.8)
+			(xy 194.31 288.29) (xy 194.31 304.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c2be42f1-ddde-4236-8c27-44b75c9adcff")
-	)
-	(wire
-		(pts
-			(xy 193.04 288.29) (xy 193.04 267.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c3b48191-dfc4-44ac-8dbe-703b0f0d49fe")
-	)
-	(wire
-		(pts
-			(xy 151.13 347.98) (xy 151.13 351.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c3c4aa25-18c7-42c6-b392-241923e40f57")
-	)
-	(wire
-		(pts
-			(xy 270.51 279.4) (xy 270.51 304.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c3f66e48-1309-4e92-949f-49f36b20a999")
-	)
-	(wire
-		(pts
-			(xy 143.51 347.98) (xy 143.51 351.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c81aff73-576d-4951-8b75-2054cbebcf2b")
-	)
-	(wire
-		(pts
-			(xy 199.39 288.29) (xy 199.39 304.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ccb293c3-264f-4af8-9d18-1daa3745aab1")
-	)
-	(wire
-		(pts
-			(xy 257.81 288.29) (xy 257.81 304.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ce5b2b4e-0f10-4996-b597-fec4e0dcda98")
+		(uuid "d0ee1809-a4d9-463e-9f5c-86f9df360105")
 	)
 	(wire
 		(pts
@@ -1174,73 +1082,53 @@
 	)
 	(wire
 		(pts
-			(xy 318.77 347.98) (xy 318.77 351.79)
+			(xy 207.01 279.4) (xy 207.01 304.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d2b92bb7-6ba0-4b5d-b55e-6a7379b5241f")
+		(uuid "d1708db9-f8bd-4fc6-840a-37053704c08d")
 	)
 	(wire
 		(pts
-			(xy 209.55 347.98) (xy 209.55 351.79)
+			(xy 138.43 288.29) (xy 132.08 288.29)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d9171f99-eebd-429b-9008-83ae6cd068f4")
+		(uuid "d63a0302-3053-40f7-8ad6-ae564858dd1d")
 	)
 	(wire
 		(pts
-			(xy 251.46 288.29) (xy 251.46 267.97)
+			(xy 299.72 267.97) (xy 311.15 267.97)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e02c922c-e207-4728-9c3a-cb1e5677121e")
+		(uuid "dace1e3b-f437-4937-8497-cf3b3e435ebf")
 	)
 	(wire
 		(pts
-			(xy 326.39 347.98) (xy 326.39 351.79)
+			(xy 306.07 288.29) (xy 306.07 304.8)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e07ca406-710c-4c89-8025-bfd71b7debff")
+		(uuid "db52f736-f4ca-4799-a972-2c6bef74b985")
 	)
 	(wire
 		(pts
-			(xy 199.39 288.29) (xy 193.04 288.29)
+			(xy 140.97 347.98) (xy 140.97 351.79)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e10d9c6c-6951-41c6-b5e9-be5f9b31ef34")
-	)
-	(wire
-		(pts
-			(xy 316.23 288.29) (xy 316.23 304.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e22ff4b1-4f47-4e43-b413-5dd5e2a5955f")
-	)
-	(wire
-		(pts
-			(xy 309.88 267.97) (xy 321.31 267.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e84add3b-66c2-4972-a8c4-2d8951eccb03")
+		(uuid "eb5ebffb-b0e5-4f2e-9648-ca2440fc0e6d")
 	)
 	(wire
 		(pts
@@ -1254,33 +1142,13 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 331.47) (xy 246.38 266.7)
+			(xy 306.07 288.29) (xy 299.72 288.29)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ef310422-67f5-4309-9315-686484f0bbe8")
-	)
-	(wire
-		(pts
-			(xy 187.96 266.7) (xy 212.09 266.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f8a3391b-b72d-4af3-bd99-063d4b84ab28")
-	)
-	(wire
-		(pts
-			(xy 304.8 266.7) (xy 328.93 266.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fd740fa3-1f01-41e9-b3e8-d6c04cba99b3")
+		(uuid "f6ea5613-11bb-44d9-88a4-5a725b8aaf66")
 	)
 	(wire
 		(pts
@@ -1294,833 +1162,26 @@
 	)
 	(wire
 		(pts
-			(xy 264.16 285.75) (xy 262.89 285.75)
+			(xy 252.73 347.98) (xy 252.73 351.79)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ff8a93ed-faf5-47f5-be94-55e1df0b9040")
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 267.97 351.79 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0290c443-d1e0-469d-b5a7-72e56d195cc4")
-		(property "Reference" "#PWR016"
-			(at 267.97 358.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 267.97 356.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 267.97 351.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 267.97 351.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 267.97 351.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c4f1ba89-a638-4403-bb19-83d5785f03cb")
-		)
-		(instances
-			(project "Mechanical Electrical Diagram"
-				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
-					(reference "#PWR016")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Lunabotics 2025-26:Spark_Max_Motor_Controller")
-		(at 264.16 327.66 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "0aabecaa-9d18-401e-a2da-73b06c7cf8e6")
-		(property "Reference" "U7"
-			(at 263.652 326.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Value" "~"
-			(at 263.652 328.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 264.16 327.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 264.16 327.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 264.16 327.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "4b720cfd-6f0e-4d16-aa28-eb7ae3ece613")
-		)
-		(pin "1"
-			(uuid "8910f8a3-3115-444d-949d-2e65a5500ddd")
-		)
-		(pin "4"
-			(uuid "d6aa7c3e-93ff-45a6-8f2e-271facc2baa4")
-		)
-		(pin "9"
-			(uuid "5f895694-e650-43a7-a0c2-ecc2c3607bc1")
-		)
-		(pin "3"
-			(uuid "b7cf6d11-e66a-4f22-b13e-92f6be78301b")
-		)
-		(pin "5"
-			(uuid "e6d4f859-cc70-496d-aa83-4d31f4712c5d")
-		)
-		(instances
-			(project "Mechanical Electrical Diagram"
-				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
-					(reference "U7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Lunabotics 2025-26:Rev_Neo")
-		(at 262.89 276.86 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0f6bc34f-a2e2-46a1-b4f0-1881881b95b3")
-		(property "Reference" "U18"
-			(at 256.54 275.5899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "~"
-			(at 256.54 278.1299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 262.89 276.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 262.89 276.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 262.89 276.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "195bc082-3610-44a4-b533-456d014a484b")
-		)
-		(pin "2"
-			(uuid "076891ee-9adb-4d5c-b97e-15b28317516a")
-		)
-		(pin "1"
-			(uuid "4911145a-b5b6-4608-b444-9e4855773c01")
-		)
-		(pin "4"
-			(uuid "d4408e7e-c380-48e8-9542-bf66484430fc")
-		)
-		(instances
-			(project "Mechanical Electrical Diagram"
-				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
-					(reference "U18")
-					(unit 1)
-				)
-			)
-		)
+		(uuid "ffbc6557-8ccc-47c1-b8d0-bba54934b719")
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 201.93 351.79 180)
+		(at 140.97 351.79 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "1e7ea63b-0a5b-4a68-baee-17e381a93eeb")
-		(property "Reference" "#PWR013"
-			(at 201.93 347.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+12V"
-			(at 201.93 356.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 201.93 351.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 201.93 351.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 201.93 351.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "546e7715-90b7-40f0-8167-cce820a6aefc")
-		)
-		(instances
-			(project "Mechanical Electrical Diagram"
-				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
-					(reference "#PWR013")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Lunabotics 2025-26:Spark_Max_Motor_Controller")
-		(at 264.16 327.66 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "1ed9b2a1-73c8-4bbf-89ca-ce89b08e1839")
-		(property "Reference" "U11"
-			(at 263.652 326.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Value" "~"
-			(at 263.652 328.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 264.16 327.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 264.16 327.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 264.16 327.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "fe716970-5967-44f2-a20c-a5407c7117dc")
-		)
-		(pin "1"
-			(uuid "e562295d-983c-4799-baab-0e341d1ca4ae")
-		)
-		(pin "4"
-			(uuid "62b6af34-df70-4e2f-9b1e-a064e8384cfa")
-		)
-		(pin "9"
-			(uuid "eb25cc1e-a1f0-4b52-9182-4b246e6a912a")
-		)
-		(pin "3"
-			(uuid "537f2eb9-4500-4f32-b46d-08d77f432a90")
-		)
-		(pin "5"
-			(uuid "18d609c5-77fa-4326-bdd5-10d9998a46a0")
-		)
-		(instances
-			(project "Mechanical Electrical Diagram"
-				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
-					(reference "U11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 209.55 351.79 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "20d46c94-70ce-4b34-90c4-91e7473c741e")
-		(property "Reference" "#PWR06"
-			(at 209.55 358.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 209.55 356.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 209.55 351.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 209.55 351.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 209.55 351.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "061c8458-70cf-49b0-8e64-cbb3ec40d4c0")
-		)
-		(instances
-			(project "Mechanical Electrical Diagram"
-				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
-					(reference "#PWR06")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Lunabotics 2025-26:Rev_Neo")
-		(at 204.47 276.86 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2434d11e-c6ec-42a0-8aa1-662883a93971")
-		(property "Reference" "U16"
-			(at 198.12 275.5899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "~"
-			(at 198.12 278.1299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 204.47 276.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 204.47 276.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 204.47 276.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "91afcdd1-2e9b-4a9f-9c0b-136441764a09")
-		)
-		(pin "2"
-			(uuid "8b346e52-b2eb-4146-986b-4169c87702bf")
-		)
-		(pin "1"
-			(uuid "382d5496-7a76-4619-928b-e8e54dba8202")
-		)
-		(pin "4"
-			(uuid "2678a5b6-0014-4afe-9451-567c328fd769")
-		)
-		(instances
-			(project "Mechanical Electrical Diagram"
-				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
-					(reference "U16")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 326.39 351.79 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2b5c0038-f502-45f4-99c1-ae76bd707ee6")
-		(property "Reference" "#PWR010"
-			(at 326.39 358.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 326.39 356.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 326.39 351.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 326.39 351.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 326.39 351.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "40afb46b-f3fe-4d89-8980-2cd919fba55a")
-		)
-		(instances
-			(project "Mechanical Electrical Diagram"
-				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
-					(reference "#PWR010")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 326.39 351.79 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "322c8453-c6a2-4c8e-930b-51bce7a8e8c4")
-		(property "Reference" "#PWR018"
-			(at 326.39 358.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 326.39 356.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 326.39 351.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 326.39 351.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 326.39 351.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f5381aed-9698-4cff-90a9-4f858d796e12")
-		)
-		(instances
-			(project "Mechanical Electrical Diagram"
-				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
-					(reference "#PWR018")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Lunabotics 2025-26:Rev_Neo")
-		(at 146.05 276.86 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "36fe04d7-febd-49ff-b90c-042fe9036350")
-		(property "Reference" "U14"
-			(at 139.7 275.5899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "~"
-			(at 139.7 278.1299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 146.05 276.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 146.05 276.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 146.05 276.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "1f9512a4-582b-4b10-b6a6-e974c336897c")
-		)
-		(pin "2"
-			(uuid "1438b610-d8d2-413a-a5d7-203954295e9e")
-		)
-		(pin "1"
-			(uuid "7af4df31-c0a3-480d-bfff-ffb8dfbed105")
-		)
-		(pin "4"
-			(uuid "a0df8104-a99b-40b5-98b5-39bc05fbb420")
-		)
-		(instances
-			(project "Mechanical Electrical Diagram"
-				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
-					(reference "U14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Lunabotics 2025-26:Spark_Max_Motor_Controller")
-		(at 147.32 327.66 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "51385c68-25dd-4e6b-bae1-9e060ecc9e02")
-		(property "Reference" "U9"
-			(at 146.812 326.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Value" "~"
-			(at 146.812 328.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 147.32 327.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 147.32 327.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 147.32 327.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "915e88e9-21e0-4db1-a6b3-000303f1bc42")
-		)
-		(pin "1"
-			(uuid "304590e5-6d46-4dbc-aecd-71cd673b1c2e")
-		)
-		(pin "4"
-			(uuid "da0e9f50-3bcd-4ac6-bd82-8373e2d63464")
-		)
-		(pin "9"
-			(uuid "0d3a0a4a-7409-4642-b0c1-4a279a116ad4")
-		)
-		(pin "3"
-			(uuid "113a7cc7-1bcb-4485-8096-4fe708f87058")
-		)
-		(pin "5"
-			(uuid "a5127f88-8fba-476f-bbb8-dc8979b9ffcf")
-		)
-		(instances
-			(project "Mechanical Electrical Diagram"
-				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
-					(reference "U9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+12V")
-		(at 201.93 351.79 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "53b0e93f-483d-4af9-81f8-92aa0c758cf6")
+		(uuid "063f2299-5414-4ead-ab11-fe590d173592")
 		(property "Reference" "#PWR05"
-			(at 201.93 347.98 0)
+			(at 140.97 347.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2129,7 +1190,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 201.93 356.87 0)
+			(at 140.97 356.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2137,7 +1198,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 201.93 351.79 0)
+			(at 140.97 351.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2146,7 +1207,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 201.93 351.79 0)
+			(at 140.97 351.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2155,7 +1216,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 201.93 351.79 0)
+			(at 140.97 351.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2164,7 +1225,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "20ab99bc-15e9-4639-9878-79b6d231682c")
+			(uuid "74a61205-44e3-4646-b1ca-ae830390d5a2")
 		)
 		(instances
 			(project "Mechanical Electrical Diagram"
@@ -2177,16 +1238,16 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 143.51 351.79 180)
+		(at 140.97 351.79 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "557f8804-85e3-404a-9d22-8a8c583f3bde")
-		(property "Reference" "#PWR011"
-			(at 143.51 347.98 0)
+		(uuid "07bf4107-b432-432c-99c3-9574913f108d")
+		(property "Reference" "#PWR03"
+			(at 140.97 347.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2195,7 +1256,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 143.51 356.87 0)
+			(at 140.97 356.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2203,7 +1264,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 143.51 351.79 0)
+			(at 140.97 351.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2212,7 +1273,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 143.51 351.79 0)
+			(at 140.97 351.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2221,7 +1282,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 143.51 351.79 0)
+			(at 140.97 351.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2230,7 +1291,450 @@
 			)
 		)
 		(pin "1"
-			(uuid "48adff77-137c-44bb-a6e0-ffa214e2b2f6")
+			(uuid "d63727cc-0aba-4f04-9e1e-b545c7feb286")
+		)
+		(instances
+			(project "Mechanical Electrical Diagram"
+				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
+					(reference "#PWR03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Lunabotics 2025-26:Rev_Neo")
+		(at 199.39 276.86 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0f314464-3941-46de-84f6-098ac1ad2776")
+		(property "Reference" "U8"
+			(at 193.04 275.5899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 193.04 278.1299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 199.39 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 199.39 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 199.39 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "065d54a9-5bd9-4c78-8bff-601b891fa45f")
+		)
+		(pin "2"
+			(uuid "15ec7bed-fccd-47b6-b5fc-742634f1f497")
+		)
+		(pin "1"
+			(uuid "5576daff-e7b9-4973-9a34-4806c5e33ae2")
+		)
+		(pin "4"
+			(uuid "25dbc0d3-6542-4bbb-8845-95e4103606d3")
+		)
+		(instances
+			(project "Mechanical Electrical Diagram"
+				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
+					(reference "U8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Lunabotics 2025-26:Spark_Max_Motor_Controller")
+		(at 144.78 327.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "14b84030-b8bd-4671-bc35-715c807e6c93")
+		(property "Reference" "U5"
+			(at 144.272 326.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "~"
+			(at 144.272 328.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 144.78 327.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 144.78 327.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 144.78 327.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "cc46c0dc-1ad4-4d84-8489-223c4b3d32b1")
+		)
+		(pin "1"
+			(uuid "d5bf1cad-c46e-437d-8183-ee422232dc02")
+		)
+		(pin "4"
+			(uuid "f9b9e8de-7e2f-4a26-90f1-5ae387aabdae")
+		)
+		(pin "9"
+			(uuid "820c575f-70a5-4ed4-8825-97738e13b77e")
+		)
+		(pin "3"
+			(uuid "33abdd26-d1a7-451c-8f64-110e0aa14401")
+		)
+		(pin "5"
+			(uuid "2e69300e-ffc7-4ddf-9483-aa0d3cffa4e2")
+		)
+		(instances
+			(project "Mechanical Electrical Diagram"
+				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
+					(reference "U5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 204.47 351.79 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "24a7012a-18a8-4563-bde9-70cd4e6c736a")
+		(property "Reference" "#PWR08"
+			(at 204.47 358.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 204.47 356.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 204.47 351.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 204.47 351.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 204.47 351.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "58e1464b-bf8c-456d-8986-8061e661b276")
+		)
+		(instances
+			(project "Mechanical Electrical Diagram"
+				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
+					(reference "#PWR08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Lunabotics 2025-26:Rev_Neo")
+		(at 143.51 276.86 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "27f68669-d4e7-4ea2-ab4b-722538e5437b")
+		(property "Reference" "U2"
+			(at 137.16 275.5899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 137.16 278.1299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 143.51 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 143.51 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 143.51 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "f480332c-89fd-4100-8b34-c286b55d0f8c")
+		)
+		(pin "2"
+			(uuid "50d31277-1877-4da2-be35-7513ff26c42c")
+		)
+		(pin "1"
+			(uuid "eeb4d67a-b66c-48ba-bc5d-eb8bc7a35eb7")
+		)
+		(pin "4"
+			(uuid "f3d1d5f0-4a94-4e98-86c3-35a87cd677af")
+		)
+		(instances
+			(project "Mechanical Electrical Diagram"
+				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
+					(reference "U2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Lunabotics 2025-26:Rev_Neo")
+		(at 143.51 276.86 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2c480f26-f20d-4dea-ad2b-46244f0a355d")
+		(property "Reference" "U4"
+			(at 137.16 275.5899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 137.16 278.1299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 143.51 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 143.51 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 143.51 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "eab1a60c-9f76-4014-85e3-0ebf2cf89a2b")
+		)
+		(pin "2"
+			(uuid "b570b2c1-0a62-46ec-ae50-7c31bb0628ff")
+		)
+		(pin "1"
+			(uuid "68f6bb3d-a21a-4415-8ac9-a0f8926c0da4")
+		)
+		(pin "4"
+			(uuid "38d33b35-ad53-4ecd-9325-6a573aa826b1")
+		)
+		(instances
+			(project "Mechanical Electrical Diagram"
+				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
+					(reference "U4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12V")
+		(at 252.73 351.79 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2d6a51d6-5116-4150-b8be-701430083c41")
+		(property "Reference" "#PWR011"
+			(at 252.73 347.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+12V"
+			(at 252.73 356.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 252.73 351.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 252.73 351.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 252.73 351.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ec35b0d6-8039-48e5-912e-4d8169812ddc")
 		)
 		(instances
 			(project "Mechanical Electrical Diagram"
@@ -2243,16 +1747,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 151.13 351.79 0)
+		(at 204.47 351.79 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "57cddb8a-cc96-418f-9572-0edb6310c2aa")
-		(property "Reference" "#PWR04"
-			(at 151.13 358.14 0)
+		(uuid "2fb5af6b-a1e0-4937-b101-39fdfdcf4cd6")
+		(property "Reference" "#PWR010"
+			(at 204.47 358.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2261,7 +1765,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 151.13 356.87 0)
+			(at 204.47 356.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2269,7 +1773,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 151.13 351.79 0)
+			(at 204.47 351.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2278,7 +1782,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 151.13 351.79 0)
+			(at 204.47 351.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2287,7 +1791,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 151.13 351.79 0)
+			(at 204.47 351.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2296,78 +1800,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "fbc887ef-56f6-482a-b5e3-ea09b1f8bae0")
+			(uuid "ccdad6ae-17c6-49f3-b96b-4a90eafabf80")
 		)
 		(instances
 			(project "Mechanical Electrical Diagram"
 				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
-					(reference "#PWR04")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+12V")
-		(at 143.51 351.79 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "592533c2-7912-4e82-8d74-9b8e86d15fdd")
-		(property "Reference" "#PWR03"
-			(at 143.51 347.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+12V"
-			(at 143.51 356.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 143.51 351.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 143.51 351.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 143.51 351.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4af694b9-bb54-47bc-9ce5-1af64f6f0277")
-		)
-		(instances
-			(project "Mechanical Electrical Diagram"
-				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
-					(reference "#PWR03")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -2375,15 +1813,15 @@
 	)
 	(symbol
 		(lib_id "Lunabotics 2025-26:Spark_Max_Motor_Controller")
-		(at 322.58 327.66 0)
+		(at 256.54 327.66 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "5baae139-0973-42b7-9f28-2dd7e9ed1cf5")
+		(uuid "31e249fe-0208-475a-b6f2-0e1361177b52")
 		(property "Reference" "U12"
-			(at 322.072 326.39 0)
+			(at 256.032 326.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2393,7 +1831,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 322.072 328.93 0)
+			(at 256.032 328.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2403,7 +1841,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 322.58 327.66 0)
+			(at 256.54 327.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2412,7 +1850,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 322.58 327.66 0)
+			(at 256.54 327.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2421,7 +1859,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 322.58 327.66 0)
+			(at 256.54 327.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2430,22 +1868,22 @@
 			)
 		)
 		(pin "2"
-			(uuid "4eddf0a1-d072-4c36-9390-4204d2d4d248")
+			(uuid "fc1d618e-9e96-442b-9279-f173be5912b4")
 		)
 		(pin "1"
-			(uuid "0c3573a3-47a1-406d-924c-f73cf07b48dc")
+			(uuid "eb2e2b7a-e44a-4d51-ad90-305e42a47ba5")
 		)
 		(pin "4"
-			(uuid "b5f8deca-dd5b-414b-a5d5-e74be34a3a5d")
+			(uuid "89d7ad30-bdee-484f-bb2e-9c019d725c28")
 		)
 		(pin "9"
-			(uuid "374b9e86-ce5b-4f71-90a5-c995edd711d5")
+			(uuid "4d618adf-6636-4905-836a-1eab706478ec")
 		)
 		(pin "3"
-			(uuid "797e90fc-e58f-4ae8-8ce7-075bd29cf609")
+			(uuid "a77906bd-f386-410e-b6d8-4a66495fd6d3")
 		)
 		(pin "5"
-			(uuid "c748c013-8678-41d6-9ff8-975c14d98db6")
+			(uuid "e005249d-0012-4a11-9729-b749e50d5e28")
 		)
 		(instances
 			(project "Mechanical Electrical Diagram"
@@ -2458,15 +1896,15 @@
 	)
 	(symbol
 		(lib_id "Lunabotics 2025-26:Spark_Max_Motor_Controller")
-		(at 205.74 327.66 0)
+		(at 312.42 327.66 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "6447658c-9fb4-48a3-b5b5-a866ee2fccbd")
-		(property "Reference" "U17"
-			(at 205.232 326.39 0)
+		(uuid "3a04d7a2-6f57-472a-8125-cd4ed52c0afd")
+		(property "Reference" "U16"
+			(at 311.912 326.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2476,7 +1914,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 205.232 328.93 0)
+			(at 311.912 328.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2486,7 +1924,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 205.74 327.66 0)
+			(at 312.42 327.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2495,7 +1933,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 205.74 327.66 0)
+			(at 312.42 327.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2504,7 +1942,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 205.74 327.66 0)
+			(at 312.42 327.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2513,27 +1951,27 @@
 			)
 		)
 		(pin "2"
-			(uuid "7cfcb670-dbe4-4e19-99a8-f60541f25e48")
+			(uuid "0582866d-337c-41e1-a537-fa59efa70dbe")
 		)
 		(pin "1"
-			(uuid "489a3660-3833-49b4-9893-4c7a73563690")
+			(uuid "ec22d396-8e45-420e-99f0-652201c92935")
 		)
 		(pin "4"
-			(uuid "1a9fbe8b-a321-4fd5-9e98-3bfa932d3869")
+			(uuid "a93eccaf-68a7-4ef0-a09b-d6830b725e2f")
 		)
 		(pin "9"
-			(uuid "0d5ffcc8-46da-4698-9e50-1777993bbbe9")
+			(uuid "ab6381ad-3503-4fbf-b865-0a7af5d7593c")
 		)
 		(pin "3"
-			(uuid "607dbde0-14b0-4d56-9f83-a22851994c5f")
+			(uuid "ca9e491a-ff9a-4c1e-a8bf-a59bd6d91263")
 		)
 		(pin "5"
-			(uuid "33d63d88-b1d5-4e70-b598-abfea15e4a02")
+			(uuid "d6d48690-92ee-4ba2-8394-2b98c8eabd84")
 		)
 		(instances
 			(project "Mechanical Electrical Diagram"
 				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
-					(reference "U17")
+					(reference "U16")
 					(unit 1)
 				)
 			)
@@ -2541,15 +1979,15 @@
 	)
 	(symbol
 		(lib_id "Lunabotics 2025-26:Spark_Max_Motor_Controller")
-		(at 264.16 327.66 0)
+		(at 200.66 327.66 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "66131109-e2e4-44ba-a7e2-8d1606eeb373")
-		(property "Reference" "U6"
-			(at 263.652 326.39 0)
+		(uuid "424a4b6e-de43-41a7-96f4-b86858484178")
+		(property "Reference" "U7"
+			(at 200.152 326.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2559,7 +1997,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 263.652 328.93 0)
+			(at 200.152 328.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2569,7 +2007,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 264.16 327.66 0)
+			(at 200.66 327.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2578,7 +2016,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 264.16 327.66 0)
+			(at 200.66 327.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2587,7 +2025,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 264.16 327.66 0)
+			(at 200.66 327.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2596,22 +2034,164 @@
 			)
 		)
 		(pin "2"
-			(uuid "94ca742d-ef01-49f9-90cb-0ba13907d43a")
+			(uuid "19fe108c-87a2-4f3c-8fca-d714a3cae452")
 		)
 		(pin "1"
-			(uuid "955667f4-fa5c-41cf-9ee5-d98693dcd25e")
+			(uuid "dfbdd80a-925f-41ef-8a56-f5cd83024eb9")
 		)
 		(pin "4"
-			(uuid "d2412f55-b0c7-44e8-9eaf-9ebe163de52d")
+			(uuid "011a46d6-d49c-47d1-b6df-6b41f6a4fdf6")
 		)
 		(pin "9"
-			(uuid "7efacf5e-1d16-44c5-86c9-77ee38efc077")
+			(uuid "7469d54e-93c8-4858-8887-a5f41f21fbb3")
 		)
 		(pin "3"
-			(uuid "8d1c7339-241b-48e0-83df-4defaceb590c")
+			(uuid "5e635800-0851-41a4-b782-37bc6a0f7e68")
 		)
 		(pin "5"
-			(uuid "7a72e867-a80e-4665-be2a-aaee05b4d066")
+			(uuid "a1a953e3-f125-4e0f-b131-40502c6831c3")
+		)
+		(instances
+			(project "Mechanical Electrical Diagram"
+				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
+					(reference "U7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 148.59 351.79 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "45a23814-d2cc-4b5d-947b-5872eeae31d0")
+		(property "Reference" "#PWR06"
+			(at 148.59 358.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 148.59 356.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 148.59 351.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 148.59 351.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 148.59 351.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "be8f8e97-7d9c-4c5e-a1a4-aff09c2ba371")
+		)
+		(instances
+			(project "Mechanical Electrical Diagram"
+				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
+					(reference "#PWR06")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Lunabotics 2025-26:Rev_Neo")
+		(at 199.39 276.86 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4ae906ff-f518-4b74-8e4c-6442062d11e4")
+		(property "Reference" "U6"
+			(at 193.04 275.5899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 193.04 278.1299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 199.39 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 199.39 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 199.39 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "daf3cd13-1b17-401d-8a9c-b2295b430d2c")
+		)
+		(pin "2"
+			(uuid "1d82157a-cfc1-425d-a5a3-732cfe9bf4f7")
+		)
+		(pin "1"
+			(uuid "6367532b-9752-47bc-a6a9-05ef70f0a391")
+		)
+		(pin "4"
+			(uuid "7b896c8f-919f-4571-8641-f56b447a4b72")
 		)
 		(instances
 			(project "Mechanical Electrical Diagram"
@@ -2623,16 +2203,92 @@
 		)
 	)
 	(symbol
-		(lib_id "Lunabotics 2025-26:Spark_Max_Motor_Controller")
-		(at 322.58 327.66 0)
+		(lib_id "Lunabotics 2025-26:Rev_Neo")
+		(at 311.15 276.86 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "6d8e1b07-f046-4ae5-8a48-796b4bde1d2e")
-		(property "Reference" "U8"
-			(at 322.072 326.39 0)
+		(fields_autoplaced yes)
+		(uuid "4eef9828-d945-480d-b5d5-8caafb8f0791")
+		(property "Reference" "U15"
+			(at 304.8 275.5899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 304.8 278.1299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 311.15 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 311.15 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 311.15 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "b6299318-2f42-4714-9e2f-883f0b2d3000")
+		)
+		(pin "2"
+			(uuid "83b35825-a0a6-4fac-996c-dbcc03a341bd")
+		)
+		(pin "1"
+			(uuid "45ba88c4-c0a7-442b-95e6-769511d5b4c8")
+		)
+		(pin "4"
+			(uuid "5da1c1a2-807f-4c32-a9c9-0a30094c75c5")
+		)
+		(instances
+			(project "Mechanical Electrical Diagram"
+				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
+					(reference "U15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Lunabotics 2025-26:Spark_Max_Motor_Controller")
+		(at 200.66 327.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "58af7aca-e22c-4bc3-aacc-de7a5929f8dd")
+		(property "Reference" "U9"
+			(at 200.152 326.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2642,7 +2298,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 322.072 328.93 0)
+			(at 200.152 328.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2652,7 +2308,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 322.58 327.66 0)
+			(at 200.66 327.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2661,7 +2317,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 322.58 327.66 0)
+			(at 200.66 327.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2670,7 +2326,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 322.58 327.66 0)
+			(at 200.66 327.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2679,27 +2335,27 @@
 			)
 		)
 		(pin "2"
-			(uuid "cc42bb02-675f-4005-9049-b7aeeab19397")
+			(uuid "553baee5-fcba-4606-ae6c-9d2a607b766b")
 		)
 		(pin "1"
-			(uuid "fc4616fa-efc9-4d5e-b1b9-50bbbef6cb42")
+			(uuid "44ddbd45-c1f6-4ffd-abe7-f5eb587a9bde")
 		)
 		(pin "4"
-			(uuid "c7658407-6654-47c4-91ff-d7465723a6ed")
+			(uuid "266efba0-631b-4453-b00c-723bcd0a423c")
 		)
 		(pin "9"
-			(uuid "0fe22240-f43c-4253-90fa-a582a6ba367e")
+			(uuid "721e2e84-eafb-48ff-95ca-e1186d8a63cf")
 		)
 		(pin "3"
-			(uuid "fd9e0218-eeca-43b4-ab98-2c19c532dc20")
+			(uuid "010bf4e4-454a-40e0-985e-40097a4bdf42")
 		)
 		(pin "5"
-			(uuid "47fed4f5-2e2e-4ae1-9dc7-183b392969b0")
+			(uuid "1924c608-77cf-482a-9e4f-e5ea665f3390")
 		)
 		(instances
 			(project "Mechanical Electrical Diagram"
 				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
-					(reference "U8")
+					(reference "U9")
 					(unit 1)
 				)
 			)
@@ -2707,16 +2363,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 209.55 351.79 0)
+		(at 316.23 351.79 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "84576c2d-bc34-4e3b-844a-0ec5e5cadab5")
-		(property "Reference" "#PWR014"
-			(at 209.55 358.14 0)
+		(uuid "5b65734c-6cf8-4a2e-a3bf-f97ea9389fe3")
+		(property "Reference" "#PWR016"
+			(at 316.23 358.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2725,7 +2381,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 209.55 356.87 0)
+			(at 316.23 356.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2733,7 +2389,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 209.55 351.79 0)
+			(at 316.23 351.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2742,7 +2398,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 209.55 351.79 0)
+			(at 316.23 351.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2751,7 +2407,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 209.55 351.79 0)
+			(at 316.23 351.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2760,12 +2416,144 @@
 			)
 		)
 		(pin "1"
-			(uuid "055ffd76-38f9-44a3-bd1d-55e4e4f6d601")
+			(uuid "b634f358-6c62-4ff1-aeb0-48c5bbef28a9")
 		)
 		(instances
 			(project "Mechanical Electrical Diagram"
 				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
-					(reference "#PWR014")
+					(reference "#PWR016")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 148.59 351.79 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5fbb532d-019b-4bed-8fa8-b267d69535bf")
+		(property "Reference" "#PWR04"
+			(at 148.59 358.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 148.59 356.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 148.59 351.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 148.59 351.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 148.59 351.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2dc85e0e-cb70-4218-aa18-f9ca22de958b")
+		)
+		(instances
+			(project "Mechanical Electrical Diagram"
+				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
+					(reference "#PWR04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12V")
+		(at 308.61 351.79 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "75864a70-2e05-4776-8f27-7286a383571e")
+		(property "Reference" "#PWR015"
+			(at 308.61 347.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+12V"
+			(at 308.61 356.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 308.61 351.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 308.61 351.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 308.61 351.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6c96c96d-e92d-46a3-8807-080a9017cb95")
+		)
+		(instances
+			(project "Mechanical Electrical Diagram"
+				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -2832,6 +2620,165 @@
 			(project ""
 				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
 					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Lunabotics 2025-26:Rev_Neo")
+		(at 255.27 276.86 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8c8db58a-d65c-487a-bd0f-d2668842445b")
+		(property "Reference" "U10"
+			(at 248.92 275.5899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 248.92 278.1299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 255.27 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 255.27 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 255.27 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "eb2c8dac-b3ef-4a35-92a4-7392a00d2315")
+		)
+		(pin "2"
+			(uuid "f72a9352-0270-4eec-a23d-3e6ae0c8397f")
+		)
+		(pin "1"
+			(uuid "af455e1f-6291-45bc-85fb-497b0be92d3b")
+		)
+		(pin "4"
+			(uuid "e1da8d8a-d1d3-419f-b48f-ca05d11f5b5a")
+		)
+		(instances
+			(project "Mechanical Electrical Diagram"
+				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
+					(reference "U10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Lunabotics 2025-26:Spark_Max_Motor_Controller")
+		(at 256.54 327.66 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8e6ebb95-4d1e-4bb7-833e-fa6577689c8e")
+		(property "Reference" "U14"
+			(at 256.032 326.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "~"
+			(at 256.032 328.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 256.54 327.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 256.54 327.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 256.54 327.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "4537b48d-30e2-427b-8335-b36e3a340aac")
+		)
+		(pin "1"
+			(uuid "d3c69785-fdd9-45bd-a882-eb02a57ec567")
+		)
+		(pin "4"
+			(uuid "349591c7-0915-4717-a1bd-e21055a4c30d")
+		)
+		(pin "9"
+			(uuid "df86e65d-1cbe-458f-9d8a-cb5d64f24ff3")
+		)
+		(pin "3"
+			(uuid "9187c42a-6ae5-4b01-898c-8e57f26811a6")
+		)
+		(pin "5"
+			(uuid "ed68e217-7ed7-4a28-9e3f-6ed71a76b081")
+		)
+		(instances
+			(project "Mechanical Electrical Diagram"
+				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
+					(reference "U14")
 					(unit 1)
 				)
 			)
@@ -2914,789 +2861,17 @@
 		)
 	)
 	(symbol
-		(lib_id "Lunabotics 2025-26:Spark_Max_Motor_Controller")
-		(at 205.74 327.66 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "92c00e4c-7595-4748-8e37-f1693d6937a7")
-		(property "Reference" "U5"
-			(at 205.232 326.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Value" "~"
-			(at 205.232 328.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 205.74 327.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 205.74 327.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 205.74 327.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "618b1da4-90e6-49bc-93c2-55bc80e8e368")
-		)
-		(pin "1"
-			(uuid "4e0297e4-e180-44b4-8a3b-1be977d521ca")
-		)
-		(pin "4"
-			(uuid "12b6317a-514c-4c15-9693-e0688d586c43")
-		)
-		(pin "9"
-			(uuid "8e046fe2-4f0a-4602-85fa-0ef7987f995f")
-		)
-		(pin "3"
-			(uuid "e04e9000-bf02-4ce0-8489-c2ec1ad2a8e9")
-		)
-		(pin "5"
-			(uuid "644d6c2c-6c84-4b0f-8568-4fad6c4c6cfd")
-		)
-		(instances
-			(project "Mechanical Electrical Diagram"
-				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
-					(reference "U5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 267.97 351.79 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "95624461-2592-4e22-97bf-423614622ccf")
-		(property "Reference" "#PWR08"
-			(at 267.97 358.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 267.97 356.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 267.97 351.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 267.97 351.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 267.97 351.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "83c541b7-8764-45e2-8981-058f05245a28")
-		)
-		(instances
-			(project "Mechanical Electrical Diagram"
-				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
-					(reference "#PWR08")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+12V")
-		(at 260.35 351.79 180)
+		(at 252.73 351.79 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "9825e975-744b-4a88-9fd4-621aa2f2460c")
-		(property "Reference" "#PWR015"
-			(at 260.35 347.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+12V"
-			(at 260.35 356.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 260.35 351.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 260.35 351.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 260.35 351.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3bdb4c3f-da4a-4ed2-91be-6bb095e33ea1")
-		)
-		(instances
-			(project "Mechanical Electrical Diagram"
-				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
-					(reference "#PWR015")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Lunabotics 2025-26:Spark_Max_Motor_Controller")
-		(at 205.74 327.66 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "9bee1723-f942-43c4-9e86-2687b4e3b34a")
-		(property "Reference" "U10"
-			(at 205.232 326.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Value" "~"
-			(at 205.232 328.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 205.74 327.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 205.74 327.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 205.74 327.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "d35b777c-3e83-4f21-ae6a-71862587b7f5")
-		)
-		(pin "1"
-			(uuid "87a48eeb-5feb-4900-8b60-e81dff735a7e")
-		)
-		(pin "4"
-			(uuid "c122cc63-101f-4c95-98c4-906e3e83797c")
-		)
-		(pin "9"
-			(uuid "37cc46e9-8d2c-465b-a8b5-4f93d34b279f")
-		)
-		(pin "3"
-			(uuid "ebe402a7-2772-49da-a9e7-28afd0ad3981")
-		)
-		(pin "5"
-			(uuid "8e376d69-0457-496f-80e4-13de1f14bf8d")
-		)
-		(instances
-			(project "Mechanical Electrical Diagram"
-				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
-					(reference "U10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Lunabotics 2025-26:Rev_Neo")
-		(at 321.31 276.86 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ae4606d2-e4f8-430c-8f42-d9e10695533e")
-		(property "Reference" "U20"
-			(at 314.96 275.5899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "~"
-			(at 314.96 278.1299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 321.31 276.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 321.31 276.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 321.31 276.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "6facd99f-4786-4edf-be23-0f3b6199655f")
-		)
-		(pin "2"
-			(uuid "58f256d6-b49e-4dfd-b49d-8755d5a5b532")
-		)
-		(pin "1"
-			(uuid "44de3ea1-9117-4c6d-8038-475f86d7375c")
-		)
-		(pin "4"
-			(uuid "8d785589-fb4b-4045-8ca6-51c696e28594")
-		)
-		(instances
-			(project "Mechanical Electrical Diagram"
-				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
-					(reference "U20")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Lunabotics 2025-26:Spark_Max_Motor_Controller")
-		(at 322.58 327.66 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "b49f6c39-3172-4106-b4b0-fa97a932182f")
-		(property "Reference" "U21"
-			(at 322.072 326.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Value" "~"
-			(at 322.072 328.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 322.58 327.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 322.58 327.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 322.58 327.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "cc86bfb4-7eeb-4549-bfa7-fdc8aaa2c52d")
-		)
-		(pin "1"
-			(uuid "730e1c01-d823-4b20-9bb2-c6d2d59d676b")
-		)
-		(pin "4"
-			(uuid "97321146-42ec-4f34-b36c-9904c1fa101d")
-		)
-		(pin "9"
-			(uuid "6c74378c-3679-4eaa-b17b-ceb5e6e9dd9f")
-		)
-		(pin "3"
-			(uuid "6334b3cd-42fc-453c-9c37-aff71ab78350")
-		)
-		(pin "5"
-			(uuid "f71f6d27-b1c5-4006-9b78-e58f79f6d7fc")
-		)
-		(instances
-			(project "Mechanical Electrical Diagram"
-				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
-					(reference "U21")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Lunabotics 2025-26:Spark_Max_Motor_Controller")
-		(at 264.16 327.66 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "b82e8375-28e7-4b88-b233-ccf23b83dc02")
-		(property "Reference" "U19"
-			(at 263.652 326.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Value" "~"
-			(at 263.652 328.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 264.16 327.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 264.16 327.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 264.16 327.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "0bfd7aae-efaa-4125-803b-46adf21b20a7")
-		)
-		(pin "1"
-			(uuid "2e9513ad-cf6c-4509-a25a-4f64f186c94d")
-		)
-		(pin "4"
-			(uuid "5bc67142-257a-4ef3-858e-6e176d768c6f")
-		)
-		(pin "9"
-			(uuid "a46dfc5c-02d2-401e-a0c3-7a9a34a7c83c")
-		)
-		(pin "3"
-			(uuid "8449346e-b839-47c8-a5da-ca5998cba96f")
-		)
-		(pin "5"
-			(uuid "d4631993-0441-4dfe-87f3-63b94edd3d30")
-		)
-		(instances
-			(project "Mechanical Electrical Diagram"
-				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
-					(reference "U19")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+12V")
-		(at 318.77 351.79 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "cb1ce59e-c9f5-4920-a750-36e50f9ee805")
-		(property "Reference" "#PWR09"
-			(at 318.77 347.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+12V"
-			(at 318.77 356.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 318.77 351.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 318.77 351.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 318.77 351.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fe92cfa3-09f1-4be0-b70f-9be2af2e8118")
-		)
-		(instances
-			(project "Mechanical Electrical Diagram"
-				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
-					(reference "#PWR09")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Lunabotics 2025-26:Spark_Max_Motor_Controller")
-		(at 147.32 327.66 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d6dd7b52-c557-46cc-9a14-373590e57a7d")
-		(property "Reference" "U15"
-			(at 146.812 326.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Value" "~"
-			(at 146.812 328.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 147.32 327.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 147.32 327.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 147.32 327.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "226169a6-ff4a-47ed-9a0f-c4a8fcb31cdd")
-		)
-		(pin "1"
-			(uuid "000ce246-715c-4ab7-98c4-3843e6f1c98f")
-		)
-		(pin "4"
-			(uuid "e6e31b21-56d3-431b-93c8-b48112be0c9b")
-		)
-		(pin "9"
-			(uuid "3a55e7fd-4b45-449f-bc84-0b5052024a30")
-		)
-		(pin "3"
-			(uuid "0227b3f3-b42b-49b7-a501-276fd066c57b")
-		)
-		(pin "5"
-			(uuid "53d8378a-0bab-4d13-ae85-d6804fdf5d30")
-		)
-		(instances
-			(project "Mechanical Electrical Diagram"
-				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
-					(reference "U15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Lunabotics 2025-26:Spark_Max_Motor_Controller")
-		(at 147.32 327.66 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d94fcd26-5230-42a9-9188-40c780076114")
-		(property "Reference" "U2"
-			(at 146.812 326.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Value" "~"
-			(at 146.812 328.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 147.32 327.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 147.32 327.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 147.32 327.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "76ac0382-b9f9-447b-a2a4-e30bf09b07a9")
-		)
-		(pin "1"
-			(uuid "793f1790-066a-4f82-a392-4cfdd3b56ee0")
-		)
-		(pin "4"
-			(uuid "47eb3c97-e86a-48da-8a58-be94561cc2b6")
-		)
-		(pin "9"
-			(uuid "5ed54956-f131-40ac-9fdd-34787add0daa")
-		)
-		(pin "3"
-			(uuid "89e7dd08-9b9c-4a38-a2d9-543fd8decb85")
-		)
-		(pin "5"
-			(uuid "e60dd4f9-0d5b-4cd6-a191-047cf10ee786")
-		)
-		(instances
-			(project "Mechanical Electrical Diagram"
-				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
-					(reference "U2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 151.13 351.79 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "dbcdb476-60fa-42c1-98b9-5018066c7922")
+		(uuid "b75ba4cf-33f9-4a79-9750-f386036f018e")
 		(property "Reference" "#PWR012"
-			(at 151.13 358.14 0)
+			(at 252.73 347.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3704,8 +2879,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
-			(at 151.13 356.87 0)
+		(property "Value" "+12V"
+			(at 252.73 356.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3713,7 +2888,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 151.13 351.79 0)
+			(at 252.73 351.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3722,7 +2897,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 151.13 351.79 0)
+			(at 252.73 351.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3730,8 +2905,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 151.13 351.79 0)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 252.73 351.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3740,7 +2915,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "219f42a1-a2a8-4619-b7c1-c2d8059206b7")
+			(uuid "ec9b0d00-588b-4844-8c7c-baf30475788f")
 		)
 		(instances
 			(project "Mechanical Electrical Diagram"
@@ -3753,16 +2928,16 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 260.35 351.79 180)
+		(at 196.85 351.79 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "e0a633cb-16f9-4b53-a4dd-dc4db44db9fe")
-		(property "Reference" "#PWR07"
-			(at 260.35 347.98 0)
+		(uuid "b77b2e12-c59d-45da-803d-cb00a306c2de")
+		(property "Reference" "#PWR09"
+			(at 196.85 347.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3771,7 +2946,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 260.35 356.87 0)
+			(at 196.85 356.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3779,7 +2954,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 260.35 351.79 0)
+			(at 196.85 351.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3788,7 +2963,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 260.35 351.79 0)
+			(at 196.85 351.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3797,7 +2972,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 260.35 351.79 0)
+			(at 196.85 351.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3806,12 +2981,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "7128a848-3bb8-461a-8973-70222e8cfc78")
+			(uuid "4d2750b6-e78e-4fad-89bd-e85a2aeacf77")
 		)
 		(instances
 			(project "Mechanical Electrical Diagram"
 				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
-					(reference "#PWR07")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -3901,34 +3076,35 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+12V")
-		(at 318.77 351.79 180)
+		(lib_id "Lunabotics 2025-26:Rev_Neo")
+		(at 255.27 276.86 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "e920981e-3aaa-45ce-ad1b-64b0adc5e634")
-		(property "Reference" "#PWR017"
-			(at 318.77 347.98 0)
+		(uuid "ef8a74e7-bd1d-4fdf-87f2-c5401c8eb369")
+		(property "Reference" "U11"
+			(at 248.92 275.5899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
+				(justify left)
 			)
 		)
-		(property "Value" "+12V"
-			(at 318.77 356.87 0)
+		(property "Value" "~"
+			(at 248.92 278.1299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 318.77 351.79 0)
+			(at 255.27 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3937,7 +3113,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 318.77 351.79 0)
+			(at 255.27 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3945,8 +3121,83 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 318.77 351.79 0)
+		(property "Description" ""
+			(at 255.27 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "9da3e59f-2c32-476c-bdd1-e93ccd0bb99e")
+		)
+		(pin "2"
+			(uuid "e69f00ea-a38e-4047-adc2-b49598ad80a6")
+		)
+		(pin "1"
+			(uuid "446ed2ec-4596-4b22-b6ff-be8c6f8dcb67")
+		)
+		(pin "4"
+			(uuid "5cab463a-6fcc-432f-86e8-1050bf7d29b0")
+		)
+		(instances
+			(project "Mechanical Electrical Diagram"
+				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
+					(reference "U11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 260.35 351.79 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "efe3a460-7f44-4ce7-a01e-ea526657dad3")
+		(property "Reference" "#PWR013"
+			(at 260.35 358.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 260.35 356.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 260.35 351.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 260.35 351.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 260.35 351.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3955,12 +3206,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "2f0f0072-bbdd-4f78-bdc7-6748af2cef2e")
+			(uuid "b78c96a0-c822-4f11-a42f-3b487faf22f0")
 		)
 		(instances
 			(project "Mechanical Electrical Diagram"
 				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
-					(reference "#PWR017")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -3968,15 +3219,15 @@
 	)
 	(symbol
 		(lib_id "Lunabotics 2025-26:Spark_Max_Motor_Controller")
-		(at 147.32 327.66 0)
+		(at 144.78 327.66 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "ea5c9e69-6f65-482b-9c80-f6387966d811")
+		(uuid "f22a320a-602b-4673-bdc2-6841f668f5c6")
 		(property "Reference" "U3"
-			(at 146.812 326.39 0)
+			(at 144.272 326.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3986,7 +3237,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 146.812 328.93 0)
+			(at 144.272 328.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3996,7 +3247,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 147.32 327.66 0)
+			(at 144.78 327.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4005,7 +3256,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 147.32 327.66 0)
+			(at 144.78 327.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4014,7 +3265,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 147.32 327.66 0)
+			(at 144.78 327.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4023,27 +3274,93 @@
 			)
 		)
 		(pin "2"
-			(uuid "e11dcf0a-8c2f-47cc-94c4-8f8942d133e0")
+			(uuid "6c0ce749-c097-4c56-a685-39ce90ed15da")
 		)
 		(pin "1"
-			(uuid "52670c08-7c28-41a3-81f9-38d95fa5cf41")
+			(uuid "5404d7d4-0054-491b-8553-082d7a5a6220")
 		)
 		(pin "4"
-			(uuid "10474fbd-2625-4594-bef1-5ccaf4a39f05")
+			(uuid "266a3374-4b70-4474-95dc-826748018f84")
 		)
 		(pin "9"
-			(uuid "71fc00b5-04da-43fc-bbfe-060cb7879a4a")
+			(uuid "40fe8d8e-afad-4b8c-ae4e-68dd8328ff6f")
 		)
 		(pin "3"
-			(uuid "7d3e7c37-97ec-4072-848f-2cbb034d43f5")
+			(uuid "41ec8cd0-7562-46a0-8095-05950e4b78ae")
 		)
 		(pin "5"
-			(uuid "c087ad0c-783d-48d4-8d7f-c5eb196c5f3e")
+			(uuid "d92b3b20-14cd-4ac6-a558-ae9ca6e5f3ce")
 		)
 		(instances
 			(project "Mechanical Electrical Diagram"
 				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
 					(reference "U3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12V")
+		(at 196.85 351.79 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f3da3373-2c06-4be2-8702-d351de667b90")
+		(property "Reference" "#PWR07"
+			(at 196.85 347.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+12V"
+			(at 196.85 356.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 196.85 351.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 196.85 351.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 196.85 351.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "eb276da6-ca54-41af-9496-99591c6bd6a5")
+		)
+		(instances
+			(project "Mechanical Electrical Diagram"
+				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -4116,36 +3433,34 @@
 		)
 	)
 	(symbol
-		(lib_id "Lunabotics 2025-26:Spark_Max_Motor_Controller")
-		(at 205.74 327.66 0)
+		(lib_id "power:GND")
+		(at 260.35 351.79 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "fd9703f1-09a6-4c29-ab72-5c724b3f47e6")
-		(property "Reference" "U4"
-			(at 205.232 326.39 0)
+		(fields_autoplaced yes)
+		(uuid "ff5d97ef-57ee-4155-b07f-04ee27d12900")
+		(property "Reference" "#PWR014"
+			(at 260.35 358.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
 				(hide yes)
 			)
 		)
-		(property "Value" "~"
-			(at 205.232 328.93 0)
+		(property "Value" "GND"
+			(at 260.35 356.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
-			(at 205.74 327.66 0)
+			(at 260.35 351.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4154,7 +3469,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 205.74 327.66 0)
+			(at 260.35 351.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4162,37 +3477,22 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 205.74 327.66 0)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 260.35 351.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
-		)
-		(pin "2"
-			(uuid "59859758-ee7e-4791-a6b2-5c9d1331612c")
 		)
 		(pin "1"
-			(uuid "63ac420b-1df2-42dc-a287-e108aa361d5d")
-		)
-		(pin "4"
-			(uuid "5c57c6d8-bb68-419f-a292-2e7a7b5cb45c")
-		)
-		(pin "9"
-			(uuid "7bbb6d3c-9495-4d4f-bab4-db2b98116f6b")
-		)
-		(pin "3"
-			(uuid "bf6c77af-2c79-417c-9581-469894a73e15")
-		)
-		(pin "5"
-			(uuid "4724254d-b457-486e-94b8-17d16b64ef31")
+			(uuid "c0639624-f9ab-4e63-8687-7e85cd93f915")
 		)
 		(instances
 			(project "Mechanical Electrical Diagram"
 				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
-					(reference "U4")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
