@@ -536,7 +536,7 @@
 			(pin input line
 				(at -3.81 27.94 270)
 				(length 2.54)
-				(name "F_(Limit)"
+				(name "F"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -554,7 +554,7 @@
 			(pin input line
 				(at 0 27.94 270)
 				(length 2.54)
-				(name "R_(Limit)"
+				(name "R"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -590,7 +590,7 @@
 			(pin input line
 				(at 3.81 27.94 270)
 				(length 2.54)
-				(name "C/I_(Enc)"
+				(name "C/I"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -608,7 +608,7 @@
 			(pin input line
 				(at 7.62 27.94 270)
 				(length 2.54)
-				(name "B_(Enc)"
+				(name "B"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -626,7 +626,7 @@
 			(pin input line
 				(at 11.43 27.94 270)
 				(length 2.54)
-				(name "A_(Enc)"
+				(name "A"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -844,11 +844,10 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
-		(property "Value" ""
-			(at 0 0 0)
+		(property "Value" "Jetson Nano"
+			(at 0 -2.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -884,8 +883,8 @@
 		)
 		(symbol "Jetson_Nano_0_1"
 			(rectangle
-				(start -31.75 97.79)
-				(end 35.56 -99.06)
+				(start -24.13 41.91)
+				(end 26.67 -40.64)
 				(stroke
 					(width 0)
 					(type default)
@@ -897,117 +896,9 @@
 		)
 		(symbol "Jetson_Nano_1_1"
 			(pin input line
-				(at -34.29 63.5 0)
+				(at -26.67 36.83 0)
 				(length 2.54)
-				(name "(J11)_LATCH_SET_BUTTON_7"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "7"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -34.29 60.96 0)
-				(length 2.54)
-				(name "(J11)_LATCH_SET_8"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "8"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -34.29 54.61 0)
-				(length 2.54)
-				(name "(J11)_SYSTEM_RESET_5"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "5"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -34.29 52.07 0)
-				(length 2.54)
-				(name "(J11)_GND_6"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "6"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -34.29 45.72 0)
-				(length 2.54)
-				(name "(J11)_FORCE_RECOVERY_3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -34.29 43.18 0)
-				(length 2.54)
-				(name "(J11)_GND_4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -34.29 35.56 0)
-				(length 2.54)
-				(name "(J11)_POWER_BUTTON_1"
+				(name "GPIO"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1023,9 +914,9 @@
 				)
 			)
 			(pin input line
-				(at -34.29 33.02 0)
+				(at -26.67 33.02 0)
 				(length 2.54)
-				(name "(J11)_GND_2"
+				(name "GPIO"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1041,9 +932,117 @@
 				)
 			)
 			(pin input line
-				(at -34.29 7.62 0)
+				(at -26.67 29.21 0)
 				(length 2.54)
-				(name "(J5)_RIBBON_CAMERA_CONNECTION"
+				(name "GPIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -26.67 25.4 0)
+				(length 2.54)
+				(name "GPIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -26.67 21.59 0)
+				(length 2.54)
+				(name "GPIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -26.67 17.78 0)
+				(length 2.54)
+				(name "GPIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -26.67 13.97 0)
+				(length 2.54)
+				(name "GPIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -26.67 10.16 0)
+				(length 2.54)
+				(name "GPIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -26.67 6.35 0)
+				(length 2.54)
+				(name "GPIO"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1059,27 +1058,9 @@
 				)
 			)
 			(pin input line
-				(at -26.67 100.33 270)
+				(at -26.67 2.54 0)
 				(length 2.54)
-				(name "(J12)_POWER_BUTTON_12"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "72"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -25.4 -101.6 90)
-				(length 2.54)
-				(name "USB_Type_C_Power"
+				(name "GPIO"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1095,45 +1076,9 @@
 				)
 			)
 			(pin input line
-				(at -22.86 100.33 270)
+				(at -26.67 -1.27 0)
 				(length 2.54)
-				(name "(J12)_GND_11"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "71"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -19.05 100.33 270)
-				(length 2.54)
-				(name "(J12)_FORCE_RECOVERY_10"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "70"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -19.05 -101.6 90)
-				(length 2.54)
-				(name "HDMI_Type_A"
+				(name "GPIO"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1149,27 +1094,9 @@
 				)
 			)
 			(pin input line
-				(at -15.24 100.33 270)
+				(at -26.67 -5.08 0)
 				(length 2.54)
-				(name "(J12)_GND_9"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "69"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -12.7 -101.6 90)
-				(length 2.54)
-				(name "USB_3.0_Type_A"
+				(name "GPIO"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1185,45 +1112,9 @@
 				)
 			)
 			(pin input line
-				(at -11.43 100.33 270)
+				(at -26.67 -8.89 0)
 				(length 2.54)
-				(name "(J12)_SYSTEM_RESET_8"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "68"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -7.62 100.33 270)
-				(length 2.54)
-				(name "(J12)_GND_7"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "67"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -7.62 -101.6 90)
-				(length 2.54)
-				(name "USB_2.0_Type_A_1"
+				(name "GPIO"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1239,27 +1130,9 @@
 				)
 			)
 			(pin input line
-				(at -3.81 100.33 270)
+				(at -26.67 -12.7 0)
 				(length 2.54)
-				(name "(J12)_LATCH_SET_BUTTON_6"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "66"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -1.27 -101.6 90)
-				(length 2.54)
-				(name "USB_2.0_Type_A_2"
+				(name "GPIO"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1275,45 +1148,9 @@
 				)
 			)
 			(pin input line
-				(at 0 100.33 270)
+				(at -26.67 -16.51 0)
 				(length 2.54)
-				(name "(J12)_LATCH_SET_5"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "65"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 3.81 100.33 270)
-				(length 2.54)
-				(name "(J12)_UART2_TXD_4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "64"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 6.35 -101.6 90)
-				(length 2.54)
-				(name "Ethernet_Jack"
+				(name "GPIO"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1329,45 +1166,9 @@
 				)
 			)
 			(pin input line
-				(at 7.62 100.33 270)
+				(at -26.67 -20.32 0)
 				(length 2.54)
-				(name "(J12)_UART2_RXD_3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "63"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 11.43 100.33 270)
-				(length 2.54)
-				(name "(J12)_POWER_LED+_2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "62"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 13.97 -101.6 90)
-				(length 2.54)
-				(name "USB_Micro_B"
+				(name "GPIO"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1383,81 +1184,9 @@
 				)
 			)
 			(pin input line
-				(at 15.24 100.33 270)
+				(at -26.67 -24.13 0)
 				(length 2.54)
-				(name "(J12)_POWER_LED-_1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "61"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 21.59 -101.6 90)
-				(length 2.54)
-				(name "(J7)_PWM_4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "20"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 25.4 -101.6 90)
-				(length 2.54)
-				(name "(J7)_TACH_3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "19"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 29.21 -101.6 90)
-				(length 2.54)
-				(name "(J7)_PWR_(5V)_2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "18"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 33.02 -101.6 90)
-				(length 2.54)
-				(name "(J7)_GND_1"
+				(name "GPIO"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1473,16 +1202,16 @@
 				)
 			)
 			(pin input line
-				(at 38.1 88.9 180)
+				(at -26.67 -27.94 0)
 				(length 2.54)
-				(name "(J6)_GND_39"
+				(name "GPIO"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "59"
+				(number "18"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1491,16 +1220,16 @@
 				)
 			)
 			(pin input line
-				(at 38.1 86.36 180)
+				(at -26.67 -31.75 0)
 				(length 2.54)
-				(name "(J6)_GPIO_40"
+				(name "GPIO"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "60"
+				(number "19"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1509,16 +1238,16 @@
 				)
 			)
 			(pin input line
-				(at 38.1 81.28 180)
+				(at -26.67 -35.56 0)
 				(length 2.54)
-				(name "(J6)_GPIO_37"
+				(name "GPIO"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "57"
+				(number "20"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1526,280 +1255,10 @@
 					)
 				)
 			)
-			(pin input line
-				(at 38.1 78.74 180)
+			(pin power_in line
+				(at -15.24 -43.18 90)
 				(length 2.54)
-				(name "(J6)_GPIO_38"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "58"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 38.1 73.66 180)
-				(length 2.54)
-				(name "(J6)_GPIO_35"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "55"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 38.1 71.12 180)
-				(length 2.54)
-				(name "(J6)_GPIO_36"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "56"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 38.1 64.77 180)
-				(length 2.54)
-				(name "(J6)_GPIO_33"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "53"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 38.1 62.23 180)
-				(length 2.54)
-				(name "(J6)_GND_34"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "54"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 38.1 55.88 180)
-				(length 2.54)
-				(name "(J6)_GPIO_31"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "51"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 38.1 53.34 180)
-				(length 2.54)
-				(name "(J6)_GPIO_32"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "52"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 38.1 46.99 180)
-				(length 2.54)
-				(name "(J6)_GPIO_29"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "49"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 38.1 44.45 180)
-				(length 2.54)
-				(name "(J6)_GND_30"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "50"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 38.1 36.83 180)
-				(length 2.54)
-				(name "(J6)_I2C0_SDA_27"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "47"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 38.1 34.29 180)
-				(length 2.54)
-				(name "(J6)_I2C0_CLK_28"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "48"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 38.1 29.21 180)
-				(length 2.54)
-				(name "(J6)_GND_25"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "45"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 38.1 26.67 180)
-				(length 2.54)
-				(name "(J6)_GPIO_26"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "46"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 38.1 20.32 180)
-				(length 2.54)
-				(name "(J6)_GPIO_23"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "43"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 38.1 17.78 180)
-				(length 2.54)
-				(name "(J6)_GPIO_24"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "44"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 38.1 10.16 180)
-				(length 2.54)
-				(name "(J6)_GPIO_21"
+				(name "Micro-USB"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1815,9 +1274,9 @@
 				)
 			)
 			(pin input line
-				(at 38.1 7.62 180)
+				(at -8.89 -43.18 90)
 				(length 2.54)
-				(name "(J6)_GPIO_22"
+				(name "Gigabit_Ethernet"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1832,17 +1291,53 @@
 					)
 				)
 			)
-			(pin input line
-				(at 38.1 0 180)
+			(pin output line
+				(at -1.27 -43.18 90)
 				(length 2.54)
-				(name "(J6)_GPIO_19"
+				(name "HDMI"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "39"
+				(number "43"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 5.08 -43.18 90)
+				(length 2.54)
+				(name "DisplayPort"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "44"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 10.16 -43.18 90)
+				(length 2.54)
+				(name "5V"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "45"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1851,16 +1346,16 @@
 				)
 			)
 			(pin input line
-				(at 38.1 -2.54 180)
+				(at 15.24 -43.18 90)
 				(length 2.54)
-				(name "(J6)_GND_20"
+				(name "MIPI_CSI-2"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "40"
+				(number "46"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1869,297 +1364,9 @@
 				)
 			)
 			(pin input line
-				(at 38.1 -8.89 180)
+				(at 29.21 36.83 180)
 				(length 2.54)
-				(name "(J6)_3.3_VDC_17"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "37"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 38.1 -11.43 180)
-				(length 2.54)
-				(name "(J6)_GPIO_18"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "38"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 38.1 -17.78 180)
-				(length 2.54)
-				(name "(J6)_GPIO_15"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "35"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 38.1 -20.32 180)
-				(length 2.54)
-				(name "(J6)_GPIO_16"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "36"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 38.1 -26.67 180)
-				(length 2.54)
-				(name "(J6)_GPIO_13"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "33"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 38.1 -29.21 180)
-				(length 2.54)
-				(name "(J6)_GND_14"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "34"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 38.1 -34.29 180)
-				(length 2.54)
-				(name "(J6)_GPIO_11"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "31"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 38.1 -36.83 180)
-				(length 2.54)
-				(name "(J6)_GPIO_12"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "32"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 38.1 -41.91 180)
-				(length 2.54)
-				(name "(J6)_GND_9"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "29"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 38.1 -44.45 180)
-				(length 2.54)
-				(name "(J6)_UART1_RXD_10"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "30"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 38.1 -49.53 180)
-				(length 2.54)
-				(name "(J6)_GPIO_7"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "27"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 38.1 -52.07 180)
-				(length 2.54)
-				(name "(G6)_UART1_TXD_8"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "28"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 38.1 -57.15 180)
-				(length 2.54)
-				(name "(J6)_I2C1_SCL_5"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "25"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 38.1 -59.69 180)
-				(length 2.54)
-				(name "(J6)_GND_6"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "26"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 38.1 -64.77 180)
-				(length 2.54)
-				(name "(J6)_I2C1_SDA_3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "23"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 38.1 -67.31 180)
-				(length 2.54)
-				(name "(J6)_5_VDC_4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "24"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at 38.1 -72.39 180)
-				(length 2.54)
-				(name "(J6)_3.3_VDC_1"
+				(name "GPIO"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2175,9 +1382,9 @@
 				)
 			)
 			(pin input line
-				(at 38.1 -74.93 180)
+				(at 29.21 33.02 180)
 				(length 2.54)
-				(name "(J6)_5_VDC_2"
+				(name "GPIO"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2185,6 +1392,538 @@
 					)
 				)
 				(number "22"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 29.21 29.21 180)
+				(length 2.54)
+				(name "GPIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "23"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 29.21 25.4 180)
+				(length 2.54)
+				(name "GPIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "24"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 29.21 21.59 180)
+				(length 2.54)
+				(name "GPIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "25"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 29.21 17.78 180)
+				(length 2.54)
+				(name "GPIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "26"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 29.21 13.97 180)
+				(length 2.54)
+				(name "GPIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "27"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 29.21 10.16 180)
+				(length 2.54)
+				(name "GPIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "28"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 29.21 6.35 180)
+				(length 2.54)
+				(name "GPIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "29"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 29.21 2.54 180)
+				(length 2.54)
+				(name "GPIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "30"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 29.21 -1.27 180)
+				(length 2.54)
+				(name "GPIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "31"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 29.21 -5.08 180)
+				(length 2.54)
+				(name "GPIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "32"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 29.21 -8.89 180)
+				(length 2.54)
+				(name "GPIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "33"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 29.21 -12.7 180)
+				(length 2.54)
+				(name "GPIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "34"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 29.21 -16.51 180)
+				(length 2.54)
+				(name "GPIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "35"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 29.21 -20.32 180)
+				(length 2.54)
+				(name "GPIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "36"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 29.21 -24.13 180)
+				(length 2.54)
+				(name "GPIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "37"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 29.21 -27.94 180)
+				(length 2.54)
+				(name "GPIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "38"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 29.21 -31.75 180)
+				(length 2.54)
+				(name "GPIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "39"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 29.21 -35.56 180)
+				(length 2.54)
+				(name "GPIO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "40"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "MPU6050"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "U"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at -3.81 3.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at -3.81 3.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at -3.81 3.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at -3.81 3.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "MPU6050_0_1"
+			(rectangle
+				(start -8.89 7.62)
+				(end 8.89 -6.35)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
+		(symbol "MPU6050_1_1"
+			(pin input line
+				(at -11.43 5.08 0)
+				(length 2.54)
+				(name "SCL"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -11.43 1.27 0)
+				(length 2.54)
+				(name "SDA"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at -11.43 -2.54 0)
+				(length 2.54)
+				(name "XDA"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 0 10.16 270)
+				(length 2.54)
+				(name "VCC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 0 -8.89 90)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 11.43 5.08 180)
+				(length 2.54)
+				(name "XCL"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 11.43 1.27 180)
+				(length 2.54)
+				(name "ADO"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 11.43 -2.54 180)
+				(length 2.54)
+				(name "INT"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "8"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -3444,8 +3183,8 @@
 		)
 		(symbol "Rev_Neo_0_1"
 			(rectangle
-				(start -5.08 6.35)
-				(end 5.08 -6.35)
+				(start -12.7 11.43)
+				(end 12.7 -11.43)
 				(stroke
 					(width 0)
 					(type default)
@@ -3456,26 +3195,8 @@
 			)
 		)
 		(symbol "Rev_Neo_1_1"
-			(pin input line
-				(at -7.62 2.54 0)
-				(length 2.54)
-				(name "C"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
 			(pin output line
-				(at -7.62 -1.27 0)
+				(at -15.24 0 0)
 				(length 2.54)
 				(name "Enc_Cable"
 					(effects
@@ -3493,9 +3214,9 @@
 				)
 			)
 			(pin power_in line
-				(at 0 8.89 270)
+				(at 0 13.97 270)
 				(length 2.54)
-				(name "M+"
+				(name "M+_(red)"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -3511,9 +3232,9 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -8.89 90)
+				(at 0 -13.97 90)
 				(length 2.54)
-				(name "M-"
+				(name "M-_(black)"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -3521,6 +3242,24 @@
 					)
 				)
 				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 15.24 0 180)
+				(length 2.54)
+				(name "C_(white)"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -3580,8 +3319,8 @@
 		)
 		(symbol "SRX_Mag_Encoder_0_1"
 			(rectangle
-				(start -6.35 8.89)
-				(end 6.35 -8.89)
+				(start -12.7 12.7)
+				(end 12.7 -13.97)
 				(stroke
 					(width 0)
 					(type default)
@@ -3592,136 +3331,18 @@
 			)
 		)
 		(symbol "SRX_Mag_Encoder_1_1"
-			(pin input line
-				(at -8.89 7.62 0)
-				(length 2.54)
-				(name "NC"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
+			(text "SRX Mag Encoder"
+				(at 0 -8.89 0)
+				(effects
+					(font
+						(size 1.524 1.524)
 					)
 				)
 			)
 			(pin input line
-				(at -8.89 5.08 0)
+				(at 0 15.24 270)
 				(length 2.54)
-				(name "FLMT"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin output line
-				(at -8.89 2.54 0)
-				(length 2.54)
-				(name "B"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "5"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -8.89 0 0)
-				(length 2.54)
-				(name "NC"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "6"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -8.89 -2.54 0)
-				(length 2.54)
-				(name "A"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "7"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -8.89 -5.08 0)
-				(length 2.54)
-				(name "RLMT"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "8"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin output line
-				(at -8.89 -7.62 0)
-				(length 2.54)
-				(name "PWM"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "9"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 0 11.43 270)
-				(length 2.54)
-				(name "3.3V"
+				(name "Encoder_Cable"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -3729,42 +3350,6 @@
 					)
 				)
 				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 1.27 -11.43 90)
-				(length 2.54)
-				(name "GND"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "10"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 3.81 11.43 270)
-				(length 2.54)
-				(name "5V"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -3837,7 +3422,7 @@
 		)
 		(symbol "Spark_MAX_Motor_Controller_1_1"
 			(pin input line
-				(at -19.05 6.35 0)
+				(at -17.78 6.35 0)
 				(length 2.54)
 				(name "Data_Port_(10Pin)"
 					(effects
@@ -3875,7 +3460,7 @@
 			(pin input line
 				(at -6.35 31.75 270)
 				(length 2.54)
-				(name "M+_(Red)"
+				(name "A_(Red)"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -3911,7 +3496,7 @@
 			(pin input line
 				(at 0 31.75 270)
 				(length 2.54)
-				(name "M-_(Black)"
+				(name "B_(Black)"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -3947,7 +3532,7 @@
 			(pin input line
 				(at 6.35 31.75 270)
 				(length 2.54)
-				(name "Brushless_(White)"
+				(name "C_(White)"
 					(effects
 						(font
 							(size 1.27 1.27)
