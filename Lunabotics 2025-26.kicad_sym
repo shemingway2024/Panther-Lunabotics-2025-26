@@ -3824,7 +3824,7 @@
 		)
 		(symbol "Spark_MAX_Motor_Controller_0_1"
 			(rectangle
-				(start -15.24 19.685)
+				(start -15.24 29.21)
 				(end 16.51 -19.685)
 				(stroke
 					(width 0)
@@ -3836,6 +3836,24 @@
 			)
 		)
 		(symbol "Spark_MAX_Motor_Controller_1_1"
+			(pin input line
+				(at -19.05 6.35 0)
+				(length 2.54)
+				(name "Data_Port_(10Pin)"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "10"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
 			(pin input line
 				(at -17.78 -5.08 0)
 				(length 2.54)
@@ -3855,7 +3873,7 @@
 				)
 			)
 			(pin input line
-				(at -6.35 21.59 270)
+				(at -6.35 31.75 270)
 				(length 2.54)
 				(name "M+_(Red)"
 					(effects
@@ -3891,7 +3909,7 @@
 				)
 			)
 			(pin input line
-				(at 0 21.59 270)
+				(at 0 31.75 270)
 				(length 2.54)
 				(name "M-_(Black)"
 					(effects
@@ -3927,7 +3945,7 @@
 				)
 			)
 			(pin input line
-				(at 6.35 21.59 270)
+				(at 6.35 31.75 270)
 				(length 2.54)
 				(name "Brushless_(White)"
 					(effects
@@ -3944,8 +3962,26 @@
 					)
 				)
 			)
+			(pin input line
+				(at 19.05 6.35 180)
+				(length 2.54)
+				(name "USB-C"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "9"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
 			(pin output line
-				(at 19.05 -2.54 180)
+				(at 19.05 2.54 180)
 				(length 2.54)
 				(name "PWM_GND"
 					(effects
@@ -3963,7 +3999,7 @@
 				)
 			)
 			(pin input line
-				(at 19.05 -7.62 180)
+				(at 19.05 -2.54 180)
 				(length 2.54)
 				(name "PWM_Power"
 					(effects
