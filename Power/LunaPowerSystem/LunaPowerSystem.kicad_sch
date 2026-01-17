@@ -300,6 +300,160 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Lunabotics 2025-26:Feedback_Linear_Actuator"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Feedback_Linear_Actuator_0_1"
+				(rectangle
+					(start -13.97 22.86)
+					(end 13.97 -22.86)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Feedback_Linear_Actuator_1_1"
+				(pin power_in line
+					(at -16.51 0 0)
+					(length 2.54)
+					(name "Potentiometer_Wiper_(Blu)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -5.08 25.4 270)
+					(length 2.54)
+					(name "Potentiometer_5V_(Y)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -5.08 -25.4 90)
+					(length 2.54)
+					(name "Potentiometer_G_(W)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 5.08 25.4 270)
+					(length 2.54)
+					(name "Motor+_(Bl)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 5.08 -25.4 90)
+					(length 2.54)
+					(name "Motor-_(R)"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Lunabotics 2025-26:Jetson_Nano"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -2656,8 +2810,63 @@
 		(uuid "d9801e0f-e39f-46d5-9cc9-ef5d4467254c")
 	)
 	(no_connect
+		(at 320.04 20.32)
+		(uuid "0b55231d-6622-4ea5-8edb-fb76bc420de5")
+	)
+	(no_connect
+		(at 248.92 15.24)
+		(uuid "2dc9816f-acb0-4e59-9487-c3efcb03be63")
+	)
+	(no_connect
+		(at 251.46 52.07)
+		(uuid "3631051d-8f93-4fb3-8b83-40d31d48f3a7")
+	)
+	(no_connect
+		(at 285.75 26.67)
+		(uuid "479dd812-8723-41e9-b696-c500c0564a0f")
+	)
+	(no_connect
+		(at 260.35 15.24)
+		(uuid "4e62f8e7-271b-4cf1-ae14-89d41fe47b99")
+	)
+	(no_connect
+		(at 260.35 52.07)
+		(uuid "6e536210-b843-4d51-88d1-9910d4768dac")
+	)
+	(no_connect
+		(at 298.45 45.72)
+		(uuid "a9e79477-224b-4494-818e-00309d2c1463")
+	)
+	(no_connect
+		(at 320.04 71.12)
+		(uuid "ae91718e-8915-427f-9a5c-ec32004dd3d4")
+	)
+	(no_connect
+		(at 285.75 33.02)
+		(uuid "bc65b831-37da-47cf-990d-a1727dec7371")
+	)
+	(no_connect
+		(at 285.75 39.37)
+		(uuid "d916869b-a335-4082-a188-80401cae26a9")
+	)
+	(no_connect
+		(at 256.54 52.07)
+		(uuid "ec177dbe-8619-4d70-90c6-58ecb1641a4e")
+	)
+	(no_connect
 		(at 127 87.63)
 		(uuid "ed5a5b41-eee8-4bc8-b1f0-22db2ec4c794")
+	)
+	(wire
+		(pts
+			(xy 231.14 102.87) (xy 233.68 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "01bd2a4a-794a-4e3c-a967-704013577b9a")
 	)
 	(wire
 		(pts
@@ -2702,6 +2911,28 @@
 			(color 255 0 0 1)
 		)
 		(uuid "10ac2ec8-92b8-44d0-aad7-e92ad60cc701")
+	)
+	(wire
+		(pts
+			(xy 309.88 20.32) (xy 293.37 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "122746f0-eaf5-4cd6-b00a-6e5cfd7714a5")
+	)
+	(wire
+		(pts
+			(xy 273.05 88.9) (xy 231.14 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "12f12ceb-4df3-4bc3-a9d5-f4b6a558f864")
 	)
 	(wire
 		(pts
@@ -2878,6 +3109,17 @@
 			(color 0 0 0 1)
 		)
 		(uuid "530669bf-8740-4f6a-9aa0-4db8ddc13ebf")
+	)
+	(wire
+		(pts
+			(xy 309.88 71.12) (xy 309.88 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "559b197c-ed73-457e-8820-b809a8ce8b5c")
 	)
 	(wire
 		(pts
@@ -3178,6 +3420,17 @@
 	)
 	(wire
 		(pts
+			(xy 293.37 86.36) (xy 233.68 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "9fe5e966-2699-4209-9274-3aa914f85864")
+	)
+	(wire
+		(pts
 			(xy 142.24 182.88) (xy 142.24 105.41)
 		)
 		(stroke
@@ -3222,6 +3475,17 @@
 	)
 	(wire
 		(pts
+			(xy 273.05 83.82) (xy 273.05 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "b4a94f74-5797-4858-8f4f-0986a3a9ef3e")
+	)
+	(wire
+		(pts
 			(xy 229.87 125.73) (xy 229.87 182.88)
 		)
 		(stroke
@@ -3252,6 +3516,17 @@
 			(color 253 0 0 1)
 		)
 		(uuid "bb6df04e-3b87-41bc-93f0-6c36865024a6")
+	)
+	(wire
+		(pts
+			(xy 231.14 88.9) (xy 231.14 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "bdcb7eb2-2341-487f-9f21-26b741191fc5")
 	)
 	(wire
 		(pts
@@ -3343,6 +3618,17 @@
 	)
 	(wire
 		(pts
+			(xy 309.88 83.82) (xy 273.05 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "d27fca44-30b6-4049-aa4e-144b941df8a4")
+	)
+	(wire
+		(pts
 			(xy 135.89 182.88) (xy 142.24 182.88)
 		)
 		(stroke
@@ -3398,6 +3684,17 @@
 	)
 	(wire
 		(pts
+			(xy 233.68 86.36) (xy 233.68 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "db95ea38-cefc-426a-8a0c-16cbb86f91a2")
+	)
+	(wire
+		(pts
 			(xy 313.69 177.8) (xy 312.42 177.8)
 		)
 		(stroke
@@ -3439,6 +3736,17 @@
 			(color 0 0 0 1)
 		)
 		(uuid "e8f053b5-9fbc-41b2-a8fd-196a2ba4ba74")
+	)
+	(wire
+		(pts
+			(xy 293.37 20.32) (xy 293.37 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 0 0 1)
+		)
+		(uuid "eba3ade1-fd7f-4a61-ac0c-d6cdd9b4fee7")
 	)
 	(wire
 		(pts
@@ -4811,6 +5119,85 @@
 			(project "LunaPowerSystem"
 				(path "/ddb47dc6-db2c-4ed2-99c0-9b98c5e956b4"
 					(reference "U8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Lunabotics 2025-26:Feedback_Linear_Actuator")
+		(at 314.96 45.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f8a1f975-8281-48d4-93b6-b0328ee132e1")
+		(property "Reference" "U11"
+			(at 330.2 44.4499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "~"
+			(at 330.2 46.9899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 314.96 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 314.96 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 314.96 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "5"
+			(uuid "89d6e89a-d392-4fab-bdf6-0597c3c66025")
+		)
+		(pin "3"
+			(uuid "46a06cf4-45a0-4d09-a72e-95cc33a5978d")
+		)
+		(pin "4"
+			(uuid "50dcfaf5-6ea7-4c46-8dfd-39df8f679bf2")
+		)
+		(pin "1"
+			(uuid "b2653a51-af72-4d75-b92a-cf1c046f6e43")
+		)
+		(pin "2"
+			(uuid "271cbe71-3c28-4164-9a82-c9f82793714b")
+		)
+		(instances
+			(project ""
+				(path "/ddb47dc6-db2c-4ed2-99c0-9b98c5e956b4"
+					(reference "U11")
 					(unit 1)
 				)
 			)

@@ -2867,7 +2867,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "Not sure where to connect these yet..."
+	(text "To be connected to microcontroller"
 		(exclude_from_sim no)
 		(at 488.442 165.608 0)
 		(effects
