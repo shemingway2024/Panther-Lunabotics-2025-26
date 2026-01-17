@@ -1027,7 +1027,7 @@
 		(uuid "0ce22bfb-bb6f-468f-a764-02c738be03ea")
 	)
 	(no_connect
-		(at 187.96 209.55)
+		(at 360.68 109.22)
 		(uuid "0cfac8c6-d39b-4975-a07d-13cdc3a7393f")
 	)
 	(no_connect
@@ -1075,7 +1075,7 @@
 		(uuid "6db38f82-0689-450e-af19-dc12cbe7a773")
 	)
 	(no_connect
-		(at 187.96 214.63)
+		(at 360.68 114.3)
 		(uuid "7b70953b-4b4b-4bce-bacd-9e26e55a938c")
 	)
 	(no_connect
@@ -1103,7 +1103,7 @@
 		(uuid "930b6cb0-6d88-4679-91ce-38f3268cffff")
 	)
 	(no_connect
-		(at 187.96 205.74)
+		(at 360.68 105.41)
 		(uuid "97a693ae-9a00-4bd2-935b-6d71854a1074")
 	)
 	(no_connect
@@ -1115,15 +1115,15 @@
 		(uuid "ab654bd4-8d15-4b83-bdef-b8ce1caaa90d")
 	)
 	(no_connect
-		(at 172.72 233.68)
+		(at 345.44 133.35)
 		(uuid "ac304f53-49ca-485a-a14b-d6e113618e3a")
 	)
 	(no_connect
-		(at 175.26 180.34)
+		(at 347.98 80.01)
 		(uuid "afbdd5ab-87fa-4a9b-a521-62dc269c4f36")
 	)
 	(no_connect
-		(at 151.13 205.74)
+		(at 323.85 105.41)
 		(uuid "b394cff3-5035-4167-b64a-629ac79004cb")
 	)
 	(no_connect
@@ -1139,7 +1139,7 @@
 		(uuid "c040f8b5-2d54-49e2-9b07-01a85adf05ef")
 	)
 	(no_connect
-		(at 165.1 233.68)
+		(at 337.82 133.35)
 		(uuid "c40d75bd-19fb-4df3-8821-a7e932561e19")
 	)
 	(no_connect
@@ -1196,7 +1196,7 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 180.34) (xy 168.91 158.75)
+			(xy 341.63 80.01) (xy 341.63 58.42)
 		)
 		(stroke
 			(width 0)
@@ -1236,7 +1236,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 186.69) (xy 101.6 217.17)
+			(xy 274.32 86.36) (xy 274.32 116.84)
 		)
 		(stroke
 			(width 0)
@@ -1356,7 +1356,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 161.29) (xy 162.56 161.29)
+			(xy 295.91 60.96) (xy 335.28 60.96)
 		)
 		(stroke
 			(width 0)
@@ -1376,7 +1376,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 180.34) (xy 162.56 161.29)
+			(xy 335.28 80.01) (xy 335.28 60.96)
 		)
 		(stroke
 			(width 0)
@@ -1496,7 +1496,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 158.75) (xy 146.05 212.09)
+			(xy 318.77 58.42) (xy 318.77 111.76)
 		)
 		(stroke
 			(width 0)
@@ -1556,7 +1556,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 212.09) (xy 123.19 212.09)
+			(xy 318.77 111.76) (xy 295.91 111.76)
 		)
 		(stroke
 			(width 0)
@@ -1596,7 +1596,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 217.17) (xy 151.13 217.17)
+			(xy 274.32 116.84) (xy 323.85 116.84)
 		)
 		(stroke
 			(width 0)
@@ -1606,7 +1606,7 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 158.75) (xy 146.05 158.75)
+			(xy 341.63 58.42) (xy 318.77 58.42)
 		)
 		(stroke
 			(width 0)
@@ -1676,7 +1676,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 113.03 161.29 0)
+		(at 285.75 60.96 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1685,7 +1685,7 @@
 		(fields_autoplaced yes)
 		(uuid "0dcdea35-b1be-4695-9c0b-99cd5aca4546")
 		(property "Reference" "#PWR03"
-			(at 113.03 165.1 0)
+			(at 285.75 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1694,7 +1694,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 113.03 156.21 0)
+			(at 285.75 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1702,7 +1702,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 113.03 161.29 0)
+			(at 285.75 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1711,7 +1711,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 113.03 161.29 0)
+			(at 285.75 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1720,7 +1720,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 113.03 161.29 0)
+			(at 285.75 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2074,7 +2074,7 @@
 	)
 	(symbol
 		(lib_id "Lunabotics 2025-26:Feedback_Linear_Actuator")
-		(at 118.11 186.69 0)
+		(at 290.83 86.36 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2083,7 +2083,7 @@
 		(fields_autoplaced yes)
 		(uuid "8a346f80-3322-47c6-a0de-e8ad8b7b09e4")
 		(property "Reference" "U28"
-			(at 133.35 185.4199 0)
+			(at 306.07 85.0899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2092,7 +2092,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 133.35 187.9599 0)
+			(at 306.07 87.6299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2101,7 +2101,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 118.11 186.69 0)
+			(at 290.83 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2110,7 +2110,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 118.11 186.69 0)
+			(at 290.83 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2119,7 +2119,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 118.11 186.69 0)
+			(at 290.83 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2304,7 +2304,7 @@
 	(symbol
 		(lib_name "Spark_MAX_Motor_Controller_1")
 		(lib_id "Lunabotics 2025-26:Spark_MAX_Motor_Controller")
-		(at 168.91 212.09 0)
+		(at 341.63 111.76 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2313,7 +2313,7 @@
 		(fields_autoplaced yes)
 		(uuid "a91a8f2a-f149-42a8-a9ad-93e197534265")
 		(property "Reference" "U29"
-			(at 149.86 199.3198 0)
+			(at 322.58 98.9898 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2321,7 +2321,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 149.86 201.8598 0)
+			(at 322.58 101.5298 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2329,7 +2329,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 168.91 212.09 0)
+			(at 341.63 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2338,7 +2338,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 168.91 212.09 0)
+			(at 341.63 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2347,7 +2347,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 168.91 212.09 0)
+			(at 341.63 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2669,7 +2669,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 113.03 212.09 0)
+		(at 285.75 111.76 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2678,7 +2678,7 @@
 		(fields_autoplaced yes)
 		(uuid "dd592223-f615-4690-9049-0deb59b88e8b")
 		(property "Reference" "#PWR05"
-			(at 113.03 218.44 0)
+			(at 285.75 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2687,7 +2687,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 113.03 217.17 0)
+			(at 285.75 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2695,7 +2695,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 113.03 212.09 0)
+			(at 285.75 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2704,7 +2704,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 113.03 212.09 0)
+			(at 285.75 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2713,7 +2713,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 113.03 212.09 0)
+			(at 285.75 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
