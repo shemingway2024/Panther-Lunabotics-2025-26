@@ -2618,6 +2618,278 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Lunabotics 2025-26:Power_Meter"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Power_Meter_0_1"
+				(rectangle
+					(start -10.16 7.62)
+					(end 10.16 -7.62)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Power_Meter_1_1"
+				(pin output line
+					(at -12.7 3.81 0)
+					(length 2.54)
+					(name "S-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -12.7 -3.81 0)
+					(length 2.54)
+					(name "S+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 12.7 3.81 180)
+					(length 2.54)
+					(name "L-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 12.7 -3.81 180)
+					(length 2.54)
+					(name "L+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Lunabotics 2025-26:Power_Meter_Shunt"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Power_Meter_Shunt_0_1"
+				(rectangle
+					(start -15.24 3.81)
+					(end 15.24 -6.35)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Power_Meter_Shunt_1_1"
+				(pin input line
+					(at -17.78 2.54 0)
+					(length 2.54)
+					(name "Sample_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -17.78 -5.08 0)
+					(length 2.54)
+					(name "Load_In"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 17.78 2.54 180)
+					(length 2.54)
+					(name "Sample_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 17.78 -5.08 180)
+					(length 2.54)
+					(name "Load_Out"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Lunabotics 2025-26:REV_Through_Bore_Encoder"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -3805,10 +4077,28 @@
 		(uuid "44014e46-5e38-42f9-b871-bfb94c149c94")
 	)
 	(junction
+		(at 378.46 81.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "51a2d918-e306-4ddd-b43e-d0438ec63222")
+	)
+	(junction
+		(at 375.92 81.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "56a97b5b-6836-4060-bc1c-f4245848d269")
+	)
+	(junction
 		(at 497.84 153.67)
 		(diameter 0)
 		(color 0 0 0 1)
 		(uuid "5d033ae4-3521-4b98-9c71-330e72432bbf")
+	)
+	(junction
+		(at 411.48 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6a68aed9-93a3-4aca-be16-849d38a84c91")
 	)
 	(junction
 		(at 223.52 173.99)
@@ -3817,22 +4107,16 @@
 		(uuid "712c654b-f80e-4c3f-a13c-6d73f681ad7a")
 	)
 	(junction
-		(at 398.78 81.28)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7f0d3fc0-1d32-4fc7-bb9b-de025eb9e26a")
-	)
-	(junction
-		(at 398.78 106.68)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7f200be6-3c87-4cfd-b333-fe3eaa15ae00")
-	)
-	(junction
 		(at 173.99 173.99)
 		(diameter 0)
 		(color 5 5 5 1)
 		(uuid "da8b5537-0e48-4eab-87ac-0a90b505983f")
+	)
+	(junction
+		(at 378.46 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "eac514eb-4eb1-4211-bd95-d43ecd2db560")
 	)
 	(junction
 		(at 325.12 173.99)
@@ -4092,7 +4376,7 @@
 	)
 	(wire
 		(pts
-			(xy 398.78 99.06) (xy 398.78 106.68)
+			(xy 378.46 99.06) (xy 378.46 106.68)
 		)
 		(stroke
 			(width 0)
@@ -4168,7 +4452,7 @@
 	)
 	(wire
 		(pts
-			(xy 367.03 69.85) (xy 445.77 69.85)
+			(xy 351.79 58.42) (xy 445.77 58.42)
 		)
 		(stroke
 			(width 0)
@@ -4254,6 +4538,17 @@
 	)
 	(wire
 		(pts
+			(xy 386.08 91.44) (xy 379.73 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "28844597-57d8-4a03-8fc3-8caabb567c41")
+	)
+	(wire
+		(pts
 			(xy 279.4 104.14) (xy 279.4 68.58)
 		)
 		(stroke
@@ -4307,7 +4602,7 @@
 	)
 	(wire
 		(pts
-			(xy 384.81 81.28) (xy 384.81 91.44)
+			(xy 364.49 81.28) (xy 364.49 91.44)
 		)
 		(stroke
 			(width 0)
@@ -4412,6 +4707,17 @@
 	)
 	(wire
 		(pts
+			(xy 412.75 91.44) (xy 412.75 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "40043ba4-6f8c-40b1-8777-c19df2bc262d")
+	)
+	(wire
+		(pts
 			(xy 341.63 127) (xy 445.77 127)
 		)
 		(stroke
@@ -4431,6 +4737,17 @@
 			(color 0 0 0 1)
 		)
 		(uuid "45391fbf-45f4-4c22-bd0d-4d5f16a78206")
+	)
+	(wire
+		(pts
+			(xy 379.73 63.5) (xy 375.92 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "47b53809-63c5-4a0a-9dd7-7637541da659")
 	)
 	(wire
 		(pts
@@ -4455,7 +4772,18 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 168.91) (xy 367.03 168.91)
+			(xy 415.29 78.74) (xy 415.29 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 3 0 1)
+		)
+		(uuid "4a6b7da9-9c19-4540-8423-5a909aa689b5")
+	)
+	(wire
+		(pts
+			(xy 99.06 168.91) (xy 351.79 168.91)
 		)
 		(stroke
 			(width 0)
@@ -4515,6 +4843,28 @@
 			(color 0 0 0 1)
 		)
 		(uuid "5099166c-35b7-4b21-8c41-fd1d4f36e57c")
+	)
+	(wire
+		(pts
+			(xy 386.08 99.06) (xy 383.54 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 0 4 1)
+		)
+		(uuid "50cc132b-e429-49ed-bdc4-6ee1a721a546")
+	)
+	(wire
+		(pts
+			(xy 383.54 99.06) (xy 383.54 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 3 0 1)
+		)
+		(uuid "55886b2f-c372-4304-92bd-ab89fae13482")
 	)
 	(wire
 		(pts
@@ -4706,6 +5056,17 @@
 	)
 	(wire
 		(pts
+			(xy 379.73 91.44) (xy 379.73 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "68db30af-799a-44bc-a66e-7671c17e97ab")
+	)
+	(wire
+		(pts
 			(xy 220.98 143.51) (xy 218.44 143.51)
 		)
 		(stroke
@@ -4737,7 +5098,7 @@
 	)
 	(wire
 		(pts
-			(xy 384.81 99.06) (xy 384.81 106.68)
+			(xy 364.49 99.06) (xy 364.49 106.68)
 		)
 		(stroke
 			(width 0)
@@ -4852,6 +5213,17 @@
 	)
 	(wire
 		(pts
+			(xy 378.46 106.68) (xy 411.48 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 6 0 1)
+		)
+		(uuid "7ad8a2c6-da45-4fcf-85ea-51604c66d29d")
+	)
+	(wire
+		(pts
 			(xy 76.2 181.61) (xy 95.25 181.61)
 		)
 		(stroke
@@ -4906,7 +5278,7 @@
 	)
 	(wire
 		(pts
-			(xy 402.59 91.44) (xy 427.99 91.44)
+			(xy 416.56 91.44) (xy 427.99 91.44)
 		)
 		(stroke
 			(width 0)
@@ -4938,7 +5310,7 @@
 	)
 	(wire
 		(pts
-			(xy 384.81 106.68) (xy 398.78 106.68)
+			(xy 364.49 106.68) (xy 378.46 106.68)
 		)
 		(stroke
 			(width 0)
@@ -4956,6 +5328,28 @@
 			(type default)
 		)
 		(uuid "8e87f071-54b6-4cdc-b4dc-dc7fb08dbf56")
+	)
+	(wire
+		(pts
+			(xy 412.75 81.28) (xy 378.46 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "8f396b3b-e635-4edd-99d6-73d20624ace5")
+	)
+	(wire
+		(pts
+			(xy 383.54 78.74) (xy 415.29 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 3 0 1)
+		)
+		(uuid "9060e808-b8ac-413e-97cc-4a9ec71b9a7d")
 	)
 	(wire
 		(pts
@@ -5065,6 +5459,17 @@
 	)
 	(wire
 		(pts
+			(xy 375.92 81.28) (xy 378.46 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "9b00cf5f-ac51-4e7a-b88a-931cd0192c8f")
+	)
+	(wire
+		(pts
 			(xy 181.61 67.31) (xy 199.39 67.31)
 		)
 		(stroke
@@ -5072,6 +5477,28 @@
 			(type default)
 		)
 		(uuid "9bf3dbb3-af73-481a-9b9a-0c832d643bcb")
+	)
+	(wire
+		(pts
+			(xy 415.29 63.5) (xy 416.56 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "9cfa4274-0f22-4e82-9abb-31f959090f71")
+	)
+	(wire
+		(pts
+			(xy 416.56 63.5) (xy 416.56 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "9d00c795-11f4-449e-b57d-729916623475")
 	)
 	(wire
 		(pts
@@ -5147,7 +5574,7 @@
 	)
 	(wire
 		(pts
-			(xy 384.81 81.28) (xy 398.78 81.28)
+			(xy 364.49 81.28) (xy 375.92 81.28)
 		)
 		(stroke
 			(width 0)
@@ -5200,17 +5627,6 @@
 	)
 	(wire
 		(pts
-			(xy 398.78 106.68) (xy 411.48 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 6 0 1)
-		)
-		(uuid "b1a11128-4496-4f58-8e8a-5f551f4b99ad")
-	)
-	(wire
-		(pts
 			(xy 426.72 189.23) (xy 466.09 189.23)
 		)
 		(stroke
@@ -5249,6 +5665,17 @@
 			(type default)
 		)
 		(uuid "ba8cd85d-2a16-461b-9fe9-3f8f92c04353")
+	)
+	(wire
+		(pts
+			(xy 375.92 63.5) (xy 375.92 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "bb769824-b042-4167-a1c6-f45502555f30")
 	)
 	(wire
 		(pts
@@ -5398,7 +5825,7 @@
 	)
 	(wire
 		(pts
-			(xy 398.78 81.28) (xy 398.78 91.44)
+			(xy 378.46 81.28) (xy 378.46 91.44)
 		)
 		(stroke
 			(width 0)
@@ -5438,17 +5865,6 @@
 			(type default)
 		)
 		(uuid "cac4c43e-c6cc-4573-9426-d3e4d07fdbc8")
-	)
-	(wire
-		(pts
-			(xy 398.78 81.28) (xy 402.59 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(uuid "cc7ec639-14c3-496a-996c-eecc0ad86049")
 	)
 	(wire
 		(pts
@@ -5577,6 +5993,17 @@
 	)
 	(wire
 		(pts
+			(xy 411.48 91.44) (xy 412.75 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "d6bd4a85-df04-431e-b1c2-34f76ea7aa02")
+	)
+	(wire
+		(pts
 			(xy 344.17 63.5) (xy 344.17 129.54)
 		)
 		(stroke
@@ -5640,7 +6067,7 @@
 	)
 	(wire
 		(pts
-			(xy 367.03 168.91) (xy 367.03 69.85)
+			(xy 351.79 168.91) (xy 351.79 58.42)
 		)
 		(stroke
 			(width 0)
@@ -5651,17 +6078,6 @@
 	)
 	(wire
 		(pts
-			(xy 402.59 81.28) (xy 402.59 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 0 0 0 1)
-		)
-		(uuid "e43c51b8-01a4-44f1-bbcd-0b2344d0c97d")
-	)
-	(wire
-		(pts
 			(xy 231.14 104.14) (xy 231.14 68.58)
 		)
 		(stroke
@@ -5669,6 +6085,17 @@
 			(type default)
 		)
 		(uuid "e5a4642c-876c-41d3-9775-2b7c792c03b3")
+	)
+	(wire
+		(pts
+			(xy 411.48 99.06) (xy 411.48 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 0 3 1)
+		)
+		(uuid "e981aeef-9fbe-49dc-824d-e1f7a2a74878")
 	)
 	(wire
 		(pts
@@ -5818,7 +6245,7 @@
 	)
 	(wire
 		(pts
-			(xy 445.77 69.85) (xy 445.77 77.47)
+			(xy 445.77 58.42) (xy 445.77 77.47)
 		)
 		(stroke
 			(width 0)
@@ -6180,7 +6607,7 @@
 	)
 	(symbol
 		(lib_id "Device:Battery_Cell")
-		(at 398.78 93.98 180)
+		(at 378.46 93.98 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6189,7 +6616,7 @@
 		(fields_autoplaced yes)
 		(uuid "16fd8c4c-dab0-4565-97e7-ab481e3acb3f")
 		(property "Reference" "BT2"
-			(at 394.97 97.0916 0)
+			(at 374.65 97.0916 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6198,7 +6625,7 @@
 			)
 		)
 		(property "Value" "14.8V"
-			(at 394.97 94.5516 0)
+			(at 374.65 94.5516 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6207,7 +6634,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 398.78 95.504 90)
+			(at 378.46 95.504 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6216,7 +6643,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 398.78 95.504 90)
+			(at 378.46 95.504 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6225,7 +6652,7 @@
 			)
 		)
 		(property "Description" "Single-cell battery"
-			(at 398.78 93.98 0)
+			(at 378.46 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6948,6 +7375,80 @@
 		)
 	)
 	(symbol
+		(lib_id "Lunabotics 2025-26:Power_Meter")
+		(at 398.78 95.25 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "822f1a93-fb8b-4d00-b95a-e1987fcb0ae8")
+		(property "Reference" "U19"
+			(at 398.78 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 398.78 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 398.78 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 398.78 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 398.78 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "01556af1-0213-44d8-81d4-ee03ece9681c")
+		)
+		(pin "2"
+			(uuid "afe92bbf-ac68-4178-a581-0a78324bb47e")
+		)
+		(pin "4"
+			(uuid "11b2eb86-9a78-4215-a8d2-dca13375c41a")
+		)
+		(pin "3"
+			(uuid "17dafecd-e906-4d01-84dc-4fbe7ac449f6")
+		)
+		(instances
+			(project "Overall Schematic"
+				(path "/b876505b-23a1-4d11-8fd1-5d37220464c6"
+					(reference "U19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 491.49 237.49 90)
 		(unit 1)
@@ -7009,6 +7510,80 @@
 			(project "Overall Schematic"
 				(path "/b876505b-23a1-4d11-8fd1-5d37220464c6"
 					(reference "#PWR016")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Lunabotics 2025-26:Power_Meter_Shunt")
+		(at 397.51 68.58 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8696e566-fb1c-406e-8c92-76d16072e3d7")
+		(property "Reference" "U18"
+			(at 397.51 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 397.51 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 397.51 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 397.51 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 397.51 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5b1342ac-66a8-4382-9b4b-e80a5122bba2")
+		)
+		(pin "2"
+			(uuid "4bd15f35-a349-4360-884e-d815822fa825")
+		)
+		(pin "4"
+			(uuid "178facc8-b210-4113-a0a5-5946c8f222d0")
+		)
+		(pin "3"
+			(uuid "f0eec478-b91d-4b3e-a292-7af8af23b53d")
+		)
+		(instances
+			(project "Overall Schematic"
+				(path "/b876505b-23a1-4d11-8fd1-5d37220464c6"
+					(reference "U18")
 					(unit 1)
 				)
 			)
@@ -7608,7 +8183,7 @@
 	)
 	(symbol
 		(lib_id "Device:Battery_Cell")
-		(at 384.81 93.98 180)
+		(at 364.49 93.98 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7617,7 +8192,7 @@
 		(fields_autoplaced yes)
 		(uuid "a7b1c15b-a0ad-45c8-8f65-e255b0c13892")
 		(property "Reference" "BT1"
-			(at 381 97.0916 0)
+			(at 360.68 97.0916 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7626,7 +8201,7 @@
 			)
 		)
 		(property "Value" "14.8 V"
-			(at 381 94.5516 0)
+			(at 360.68 94.5516 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7635,7 +8210,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 384.81 95.504 90)
+			(at 364.49 95.504 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7644,7 +8219,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 384.81 95.504 90)
+			(at 364.49 95.504 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7653,7 +8228,7 @@
 			)
 		)
 		(property "Description" "Single-cell battery"
-			(at 384.81 93.98 0)
+			(at 364.49 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
