@@ -4133,6 +4133,10 @@
 		(uuid "182a2d1b-b74f-4d65-9af5-a353924216b1")
 	)
 	(no_connect
+		(at 231.14 135.89)
+		(uuid "1a53e35f-1e8c-452e-994a-4c357bd92f5e")
+	)
+	(no_connect
 		(at 130.81 144.78)
 		(uuid "1c80b88f-b3da-4773-952e-ad42cf921380")
 	)
@@ -4193,8 +4197,16 @@
 		(uuid "b2d9ef4a-d9be-4a62-bcf6-e5af418a9e10")
 	)
 	(no_connect
+		(at 181.61 134.62)
+		(uuid "c4d89873-667f-4fd7-87d7-da84e4a5ea2e")
+	)
+	(no_connect
 		(at 184.15 81.28)
 		(uuid "c631177e-51e7-402e-9e24-b855a1416b9c")
+	)
+	(no_connect
+		(at 130.81 133.35)
+		(uuid "c97cd495-7e63-4018-9d95-ef6be4b195b0")
 	)
 	(no_connect
 		(at 478.79 208.28)
@@ -4215,6 +4227,10 @@
 	(no_connect
 		(at 279.4 147.32)
 		(uuid "dfa490b8-bc6f-4177-85d2-1f5888e56f37")
+	)
+	(no_connect
+		(at 77.47 132.08)
+		(uuid "eb52c526-d5f0-4762-9124-749e44956574")
 	)
 	(no_connect
 		(at 363.22 208.28)
@@ -4463,16 +4479,6 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 132.08) (xy 76.2 181.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "21c83e63-f380-4ae0-9f79-38e509742180")
-	)
-	(wire
-		(pts
 			(xy 167.64 137.16) (xy 173.99 137.16)
 		)
 		(stroke
@@ -4613,16 +4619,6 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 181.61) (xy 147.32 181.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "380ad325-8cb2-48ac-bdc5-8445424bf892")
-	)
-	(wire
-		(pts
 			(xy 130.81 66.04) (xy 148.59 66.04)
 		)
 		(stroke
@@ -4751,16 +4747,6 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 134.62) (xy 179.07 181.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "47feeb17-683a-407b-806f-0246ae5fa1d7")
-	)
-	(wire
-		(pts
 			(xy 349.25 58.42) (xy 349.25 134.62)
 		)
 		(stroke
@@ -4802,26 +4788,6 @@
 			(color 246 0 0 1)
 		)
 		(uuid "4d7420c9-050b-4cbd-928b-6e3cd86ba32d")
-	)
-	(wire
-		(pts
-			(xy 179.07 181.61) (xy 201.93 181.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4db8d4a1-e8a0-4925-98ae-c018fe763128")
-	)
-	(wire
-		(pts
-			(xy 229.87 181.61) (xy 251.46 181.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4f4dcb8b-10ce-404e-aba2-ba4052239bc1")
 	)
 	(wire
 		(pts
@@ -5224,16 +5190,6 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 181.61) (xy 95.25 181.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "807040e2-ad2c-42c9-966f-11c1b6cf9323")
-	)
-	(wire
-		(pts
 			(xy 226.06 163.83) (xy 226.06 63.5)
 		)
 		(stroke
@@ -5289,16 +5245,6 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 133.35) (xy 129.54 181.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8cab8a63-3719-45a5-b880-33245108fae7")
-	)
-	(wire
-		(pts
 			(xy 523.24 113.03) (xy 535.94 113.03)
 		)
 		(stroke
@@ -5318,16 +5264,6 @@
 			(color 255 6 0 1)
 		)
 		(uuid "8e815a95-7729-4ec2-acac-cb9472e2e60d")
-	)
-	(wire
-		(pts
-			(xy 181.61 134.62) (xy 179.07 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8e87f071-54b6-4cdc-b4dc-dc7fb08dbf56")
 	)
 	(wire
 		(pts
@@ -5425,16 +5361,6 @@
 			(type default)
 		)
 		(uuid "97ac342a-ab13-4b55-a388-1807f5082807")
-	)
-	(wire
-		(pts
-			(xy 129.54 133.35) (xy 130.81 133.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "98360fb9-2ba6-4af2-ab3a-0d606eb100a3")
 	)
 	(wire
 		(pts
@@ -5585,16 +5511,6 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 132.08) (xy 77.47 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aaf9dc1a-79c5-4f99-b8c9-789b019214f9")
-	)
-	(wire
-		(pts
 			(xy 300.99 163.83) (xy 443.23 163.83)
 		)
 		(stroke
@@ -5603,16 +5519,6 @@
 			(color 0 0 0 1)
 		)
 		(uuid "ab261396-6292-4741-8895-9e9249c70a0e")
-	)
-	(wire
-		(pts
-			(xy 229.87 135.89) (xy 231.14 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "af831e7f-8ce3-4d8d-bf97-5087c6b4795b")
 	)
 	(wire
 		(pts
@@ -5812,16 +5718,6 @@
 			(type default)
 		)
 		(uuid "c5bb3b92-2df7-4c15-ae58-19fc93be7a2b")
-	)
-	(wire
-		(pts
-			(xy 229.87 135.89) (xy 229.87 181.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c731c9aa-f854-45d8-8d46-dbb6545d53b7")
 	)
 	(wire
 		(pts
@@ -6530,76 +6426,6 @@
 			(project "Overall Schematic"
 				(path "/b876505b-23a1-4d11-8fd1-5d37220464c6"
 					(reference "U31")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Lunabotics 2025-26:Rev_Alternate_Encoder_Adaptor")
-		(at 95.25 205.74 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "16dff029-12a8-48b2-a490-8df51419ef42")
-		(property "Reference" "U11"
-			(at 109.22 203.8349 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "~"
-			(at 109.22 206.3749 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 95.25 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 95.25 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 95.25 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e468da2d-bd5c-47e0-9a17-efdb4da096b6")
-		)
-		(pin "2"
-			(uuid "1e0291da-6da0-4414-9b57-3c0e68b81d10")
-		)
-		(instances
-			(project "Overall Schematic"
-				(path "/b876505b-23a1-4d11-8fd1-5d37220464c6"
-					(reference "U11")
 					(unit 1)
 				)
 			)
@@ -7590,143 +7416,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Lunabotics 2025-26:Rev_Alternate_Encoder_Adaptor")
-		(at 201.93 205.74 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "89cf5f41-61e3-441d-96d7-b34c7586eb69")
-		(property "Reference" "U14"
-			(at 215.9 203.8349 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "~"
-			(at 215.9 206.3749 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 201.93 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 201.93 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 201.93 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5bd32072-7d01-4eb8-8ea9-dd8cbac774b2")
-		)
-		(pin "2"
-			(uuid "19c3dd07-1187-41ca-8d3d-3854d26a80e9")
-		)
-		(instances
-			(project "Overall Schematic"
-				(path "/b876505b-23a1-4d11-8fd1-5d37220464c6"
-					(reference "U14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Lunabotics 2025-26:REV_Through_Bore_Encoder")
-		(at 147.32 246.38 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "906db74c-684d-4422-a81c-544102b6f29e")
-		(property "Reference" "U7"
-			(at 154.94 248.9199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "~"
-			(at 154.94 251.4599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 147.32 246.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 147.32 246.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 147.32 246.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1305e95c-d27e-47ef-85da-512266591993")
-		)
-		(instances
-			(project "Overall Schematic"
-				(path "/b876505b-23a1-4d11-8fd1-5d37220464c6"
-					(reference "U7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Lunabotics 2025-26:Rev_Neo")
 		(at 199.39 81.28 0)
 		(unit 1)
@@ -7796,76 +7485,6 @@
 			(project "Overall Schematic"
 				(path "/b876505b-23a1-4d11-8fd1-5d37220464c6"
 					(reference "U25")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Lunabotics 2025-26:Rev_Alternate_Encoder_Adaptor")
-		(at 251.46 205.74 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "954213da-5446-423b-a02e-6083a742b19b")
-		(property "Reference" "U15"
-			(at 265.43 203.8349 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "~"
-			(at 265.43 206.3749 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 251.46 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 251.46 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 251.46 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f0cb2e71-d29b-4085-bd21-10db94ec767e")
-		)
-		(pin "2"
-			(uuid "50c39b23-d062-4ea0-95ef-36c53892746f")
-		)
-		(instances
-			(project "Overall Schematic"
-				(path "/b876505b-23a1-4d11-8fd1-5d37220464c6"
-					(reference "U15")
 					(unit 1)
 				)
 			)
@@ -7965,76 +7584,6 @@
 			(project "Overall Schematic"
 				(path "/b876505b-23a1-4d11-8fd1-5d37220464c6"
 					(reference "U30")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Lunabotics 2025-26:Rev_Alternate_Encoder_Adaptor")
-		(at 147.32 205.74 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9a758cc3-f7a3-437e-adb0-bfc0b9c33805")
-		(property "Reference" "U13"
-			(at 161.29 203.8349 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "~"
-			(at 161.29 206.3749 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 147.32 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 147.32 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 147.32 205.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2a1be691-6c8e-4c35-9a97-25d6a4281ad6")
-		)
-		(pin "2"
-			(uuid "9db25840-2e36-4ecb-b893-82c7ff6f8b27")
-		)
-		(instances
-			(project "Overall Schematic"
-				(path "/b876505b-23a1-4d11-8fd1-5d37220464c6"
-					(reference "U13")
 					(unit 1)
 				)
 			)
@@ -8410,207 +7959,6 @@
 			(project "Overall Schematic"
 				(path "/b876505b-23a1-4d11-8fd1-5d37220464c6"
 					(reference "U28")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Lunabotics 2025-26:REV_Through_Bore_Encoder")
-		(at 251.46 246.38 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b7040031-ae4d-4645-96ee-e5d0332f9f2d")
-		(property "Reference" "U9"
-			(at 259.08 248.9199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "~"
-			(at 259.08 251.4599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 251.46 246.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 251.46 246.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 251.46 246.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "54a25b23-ea73-4429-a543-0b7a2d8c68ad")
-		)
-		(instances
-			(project "Overall Schematic"
-				(path "/b876505b-23a1-4d11-8fd1-5d37220464c6"
-					(reference "U9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Lunabotics 2025-26:REV_Through_Bore_Encoder")
-		(at 95.25 246.38 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "bd8c555f-1683-4023-b86e-7366cbfad391")
-		(property "Reference" "U4"
-			(at 102.87 248.9199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "~"
-			(at 102.87 251.4599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 95.25 246.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 95.25 246.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 95.25 246.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "368bb9c7-31e3-4ff3-abae-76ca8f56d30f")
-		)
-		(instances
-			(project "Overall Schematic"
-				(path "/b876505b-23a1-4d11-8fd1-5d37220464c6"
-					(reference "U4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Lunabotics 2025-26:REV_Through_Bore_Encoder")
-		(at 201.93 246.38 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ca72454a-d0a6-4d41-a5d5-587675327d0c")
-		(property "Reference" "U8"
-			(at 209.55 248.9199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "~"
-			(at 209.55 251.4599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 201.93 246.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 201.93 246.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 201.93 246.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "cafe70fc-8576-4c3b-9af3-704edfc896c2")
-		)
-		(instances
-			(project "Overall Schematic"
-				(path "/b876505b-23a1-4d11-8fd1-5d37220464c6"
-					(reference "U8")
 					(unit 1)
 				)
 			)
