@@ -366,7 +366,7 @@
 							)
 						)
 					)
-					(number "10"
+					(number "12"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -384,7 +384,7 @@
 							)
 						)
 					)
-					(number "6"
+					(number "11"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -492,124 +492,6 @@
 							)
 						)
 					)
-					(number "9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 19.05 2.54 180)
-					(length 2.54)
-					(name "PWM_GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 19.05 -2.54 180)
-					(length 2.54)
-					(name "PWM_Power"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Spark_MAX_Motor_Controller_1"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "U"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Spark_MAX_Motor_Controller_1_0_1"
-				(rectangle
-					(start -15.24 29.21)
-					(end 16.51 -19.685)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "Spark_MAX_Motor_Controller_1_1_1"
-				(pin input line
-					(at -17.78 6.35 0)
-					(length 2.54)
-					(name "Data_Port_(10Pin)"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
 					(number "10"
 						(effects
 							(font
@@ -618,132 +500,6 @@
 						)
 					)
 				)
-				(pin input line
-					(at -17.78 -5.08 0)
-					(length 2.54)
-					(name "Encoder_Sensor_(6Pin)"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -6.35 31.75 270)
-					(length 2.54)
-					(name "A_(Red)"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at -3.81 -21.59 90)
-					(length 2.54)
-					(name "V+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 0 31.75 270)
-					(length 2.54)
-					(name "B_(Black)"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 3.81 -21.59 90)
-					(length 2.54)
-					(name "V-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 6.35 31.75 270)
-					(length 2.54)
-					(name "C_(White)"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin input line
-					(at 19.05 6.35 180)
-					(length 2.54)
-					(name "USB-C"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "9"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
 				(pin output line
 					(at 19.05 2.54 180)
 					(length 2.54)
@@ -754,7 +510,7 @@
 							)
 						)
 					)
-					(number "8"
+					(number "9"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -772,7 +528,43 @@
 							)
 						)
 					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 19.05 -7.62 180)
+					(length 2.54)
+					(name "PWM_GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
 					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 19.05 -11.43 180)
+					(length 2.54)
+					(name "PWM_Power"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1035,6 +827,10 @@
 		(uuid "105e5629-1e54-44f3-b40d-248a26e810dc")
 	)
 	(no_connect
+		(at 269.24 127)
+		(uuid "12db3813-a6b4-492f-b4db-62a3d48e875e")
+	)
+	(no_connect
 		(at 30.48 120.65)
 		(uuid "1427a021-b4c0-464c-8808-d1c8c33e1c81")
 	)
@@ -1047,12 +843,28 @@
 		(uuid "1fa916ad-2a8a-4b2d-8f05-c9a1af86161b")
 	)
 	(no_connect
+		(at 269.24 130.81)
+		(uuid "25345851-b816-4202-baf9-d0f31d699e81")
+	)
+	(no_connect
+		(at 120.65 124.46)
+		(uuid "267c3d53-911f-42d6-87d8-d3b40055eb4c")
+	)
+	(no_connect
 		(at 120.65 119.38)
 		(uuid "2b47005c-269d-4253-bb29-666e93544588")
 	)
 	(no_connect
+		(at 360.68 123.19)
+		(uuid "2e39edfa-c6f6-4842-8324-1c0b74e21b34")
+	)
+	(no_connect
 		(at 232.41 113.03)
 		(uuid "3257c6a9-47db-43d7-b91f-d34815090ef7")
+	)
+	(no_connect
+		(at 220.98 127)
+		(uuid "3730c2ec-3af4-4a37-a2df-a0038bd0b981")
 	)
 	(no_connect
 		(at 148.59 139.7)
@@ -1067,12 +879,28 @@
 		(uuid "4d488b5e-43ba-4477-a3ee-0d8ef77ad900")
 	)
 	(no_connect
+		(at 171.45 125.73)
+		(uuid "54c2efb1-f079-4777-bc59-c485c22262f2")
+	)
+	(no_connect
 		(at 220.98 121.92)
 		(uuid "678bad4b-74e2-403d-b128-12d50d2812aa")
 	)
 	(no_connect
+		(at 67.31 123.19)
+		(uuid "69704811-85fc-49b0-a77b-fdd0cc62c580")
+	)
+	(no_connect
 		(at 30.48 109.22)
 		(uuid "6db38f82-0689-450e-af19-dc12cbe7a773")
+	)
+	(no_connect
+		(at 360.68 119.38)
+		(uuid "70b2cd93-c5ca-4ea1-b5de-c92976a7b3ca")
+	)
+	(no_connect
+		(at 171.45 129.54)
+		(uuid "7492aa74-c0aa-4526-a705-603b8395e352")
 	)
 	(no_connect
 		(at 360.68 114.3)
@@ -1103,6 +931,10 @@
 		(uuid "930b6cb0-6d88-4679-91ce-38f3268cffff")
 	)
 	(no_connect
+		(at 67.31 127)
+		(uuid "931f3967-d30e-44ba-bf8d-7b2105ac2390")
+	)
+	(no_connect
 		(at 360.68 105.41)
 		(uuid "97a693ae-9a00-4bd2-935b-6d71854a1074")
 	)
@@ -1129,6 +961,10 @@
 	(no_connect
 		(at 186.69 59.69)
 		(uuid "b97fbe1a-d7fa-494a-955f-956ba5fb9f1b")
+	)
+	(no_connect
+		(at 220.98 130.81)
+		(uuid "bc9d6e2e-e7b9-4424-94c9-2b1eac39bba0")
 	)
 	(no_connect
 		(at 44.45 137.16)
@@ -1177,6 +1013,10 @@
 	(no_connect
 		(at 274.32 86.36)
 		(uuid "ed87f191-a339-4016-bed3-9ae29e0ef5da")
+	)
+	(no_connect
+		(at 120.65 128.27)
+		(uuid "edd734cb-6bb2-44fe-8ba3-7f76a0a07599")
 	)
 	(no_connect
 		(at 184.15 124.46)
@@ -1881,6 +1721,12 @@
 		(pin "9"
 			(uuid "ea54fb79-a295-4d26-9f44-222c2de3ff75")
 		)
+		(pin "12"
+			(uuid "9fb9d4ea-3e52-4e98-8ebd-3bd6cfd7aaaf")
+		)
+		(pin "11"
+			(uuid "383559e5-a91c-49a3-9249-5d53a504ca79")
+		)
 		(instances
 			(project "Mechanical Electrical Diagram"
 				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
@@ -1971,6 +1817,12 @@
 		)
 		(pin "9"
 			(uuid "30e7e97d-1c65-4de1-a51f-99c5699c09aa")
+		)
+		(pin "11"
+			(uuid "0edb31c6-2c62-4660-8641-be06f987907d")
+		)
+		(pin "12"
+			(uuid "1466e169-48d2-470f-aa9f-fd7888c62b6c")
 		)
 		(instances
 			(project "Mechanical Electrical Diagram"
@@ -2286,7 +2138,6 @@
 		)
 	)
 	(symbol
-		(lib_name "Spark_MAX_Motor_Controller_1")
 		(lib_id "Lunabotics 2025-26:Spark_MAX_Motor_Controller")
 		(at 341.63 111.76 0)
 		(unit 1)
@@ -2368,6 +2219,12 @@
 		)
 		(pin "5"
 			(uuid "27545d79-d56e-44e8-8b31-a10608503035")
+		)
+		(pin "12"
+			(uuid "c6caba10-7d8a-4751-9bd0-f5faada03549")
+		)
+		(pin "11"
+			(uuid "826c620b-26dd-4a62-9be6-d5d981f226b7")
 		)
 		(instances
 			(project "Mechanical Electrical Diagram"
@@ -2460,6 +2317,12 @@
 		(pin "9"
 			(uuid "b52df5a3-64e4-4231-bd1e-85646bc83ceb")
 		)
+		(pin "12"
+			(uuid "5ccb6330-0759-4739-bf03-2e65d70bf470")
+		)
+		(pin "11"
+			(uuid "0d26e902-5264-4d65-9249-61df37f202ed")
+		)
 		(instances
 			(project "Mechanical Electrical Diagram"
 				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
@@ -2551,6 +2414,12 @@
 		(pin "9"
 			(uuid "d6893165-5a1b-4a23-accd-fdf8bcb4ea40")
 		)
+		(pin "11"
+			(uuid "f6fce14a-5d9e-4620-b65c-8cb00f05863d")
+		)
+		(pin "12"
+			(uuid "b0ae98ed-97ee-4504-a923-2d1a65df67a7")
+		)
 		(instances
 			(project "Mechanical Electrical Diagram"
 				(path "/c634e0bd-1730-4d4f-b20a-8e8f219a04ab"
@@ -2641,6 +2510,12 @@
 		)
 		(pin "9"
 			(uuid "e53f715c-4f8e-45d6-8fb7-9d8cb9aa89b5")
+		)
+		(pin "11"
+			(uuid "2ea81f0b-3b18-4fdb-b40e-07b25973943a")
+		)
+		(pin "12"
+			(uuid "5ac4d6cd-d87b-4a3a-a765-1c8227fe25b6")
 		)
 		(instances
 			(project "Mechanical Electrical Diagram"
