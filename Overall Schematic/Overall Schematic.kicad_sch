@@ -182,6 +182,130 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Device:R"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 2.032 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "R"
+				(at 0 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at -1.778 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Resistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "R res resistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "R_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "R_0_1"
+				(rectangle
+					(start -1.016 -2.54)
+					(end 1.016 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "R_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Lunabotics 2025-26:A22E-M-11"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -894,6 +1018,24 @@
 					)
 				)
 				(pin input line
+					(at -12.7 44.45 270)
+					(length 2.54)
+					(name "USB_Port"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "47"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
 					(at -8.89 -43.18 90)
 					(length 2.54)
 					(name "Gigabit_Ethernet"
@@ -904,6 +1046,24 @@
 						)
 					)
 					(number "42"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -5.08 44.45 270)
+					(length 2.54)
+					(name "USB_Port"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "48"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -922,6 +1082,24 @@
 						)
 					)
 					(number "43"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 5.08 44.45 270)
+					(length 2.54)
+					(name "USB_Port"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "49"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -958,6 +1136,24 @@
 						)
 					)
 					(number "45"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 13.97 44.45 270)
+					(length 2.54)
+					(name "USB_Port"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "50"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3877,6 +4073,12 @@
 		(uuid "6a68aed9-93a3-4aca-be16-849d38a84c91")
 	)
 	(junction
+		(at 372.11 144.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d5e37ff9-0ee9-459f-810a-c57a5047b498")
+	)
+	(junction
 		(at 378.46 106.68)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4053,6 +4255,16 @@
 	)
 	(wire
 		(pts
+			(xy 372.11 139.7) (xy 372.11 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0989e7ef-9cd1-4f23-b160-9ff7fd476227")
+	)
+	(wire
+		(pts
 			(xy 152.4 161.29) (xy 152.4 167.64)
 		)
 		(stroke
@@ -4156,6 +4368,16 @@
 			(color 255 6 0 1)
 		)
 		(uuid "182980da-5799-4c32-b068-9aea8dbd388c")
+	)
+	(wire
+		(pts
+			(xy 114.3 149.86) (xy 114.3 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "184ad77b-0f99-4413-8727-72aa2e80b59a")
 	)
 	(wire
 		(pts
@@ -4452,6 +4674,16 @@
 	)
 	(wire
 		(pts
+			(xy 316.23 139.7) (xy 372.11 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3da9aded-a720-4d30-a60d-be696df8c0e4")
+	)
+	(wire
+		(pts
 			(xy 462.28 167.64) (xy 462.28 113.03)
 		)
 		(stroke
@@ -4514,6 +4746,16 @@
 			(color 246 0 0 1)
 		)
 		(uuid "41e7a44f-6946-47c6-9a31-c2d9b2f5fa06")
+	)
+	(wire
+		(pts
+			(xy 372.11 144.78) (xy 372.11 224.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "441807b5-142c-411c-ab0c-359145619cab")
 	)
 	(wire
 		(pts
@@ -4956,6 +5198,16 @@
 			(type default)
 		)
 		(uuid "798ad608-3283-4a04-9714-960920e26c1d")
+	)
+	(wire
+		(pts
+			(xy 114.3 153.67) (xy 119.38 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7a18abc0-1d2b-4663-905b-31b1388d220d")
 	)
 	(wire
 		(pts
@@ -5611,6 +5863,16 @@
 	)
 	(wire
 		(pts
+			(xy 114.3 146.05) (xy 119.38 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d05dd50d-b1a9-4f63-87ed-d3f40d3bb483")
+	)
+	(wire
+		(pts
 			(xy 509.27 102.87) (xy 515.62 102.87)
 		)
 		(stroke
@@ -5836,6 +6098,16 @@
 			(type default)
 		)
 		(uuid "ec41404f-71eb-4edb-935e-5bcf134a7d1c")
+	)
+	(wire
+		(pts
+			(xy 316.23 144.78) (xy 372.11 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec7dbd34-3322-448d-98b9-41b2da1d7b61")
 	)
 	(wire
 		(pts
@@ -6975,6 +7247,76 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 119.38 149.86 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5cfb543e-2404-47cb-b48d-055117127f2f")
+		(property "Reference" "R1"
+			(at 121.92 148.5899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "120Ω"
+			(at 121.92 151.1299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 117.602 149.86 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 119.38 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 119.38 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1e10c745-c8d2-472f-b1f0-b74d3b137f98")
+		)
+		(pin "2"
+			(uuid "9ef7f216-a3bb-4240-aaa5-424d83c678c2")
+		)
+		(instances
+			(project ""
+				(path "/b876505b-23a1-4d11-8fd1-5d37220464c6"
+					(reference "R1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Lunabotics 2025-26:Rev_Neo")
 		(at 95.25 78.74 0)
 		(unit 1)
@@ -8106,6 +8448,18 @@
 		)
 		(pin "22"
 			(uuid "2f5182b2-2a87-4f98-98c8-ba52d66586fd")
+		)
+		(pin "47"
+			(uuid "16a3ecf8-1d4d-4212-a08f-3d5833d08f90")
+		)
+		(pin "50"
+			(uuid "c0f02e21-be95-4782-970b-95ac34284db6")
+		)
+		(pin "48"
+			(uuid "f4f6499d-f880-485e-b314-ab7122d6456a")
+		)
+		(pin "49"
+			(uuid "62144a35-e1b4-40b1-a952-055b9296e1a0")
 		)
 		(instances
 			(project "Overall Schematic"
